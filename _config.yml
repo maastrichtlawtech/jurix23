@@ -1,3 +1,12 @@
 theme: minima
 title: JURIX 2023
 description: 36th International Conference on Legal Knowledge and Information Systems
+
+header_pages:
+  - registration.md
+  - calls.md
+  - committees.md
+  - speakers.md
+  - practicalities.md
+  - maastricht.md
+  - contact.md
