@@ -18,5 +18,7 @@ JURIX offers special registration fees for students and academics and a discount
 **The end date for the Early Bird is the 30th of November.*
 
 **Academic:** Researches or others with affiliation to a university or research institutions
+
 **Students:** Undergraduates or post-graduates, e.g., bachelor's, master's or PhD students (enrollment certificate required)
+
 **Other:** Industry, government, other

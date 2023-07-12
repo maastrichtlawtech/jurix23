@@ -4,4 +4,4 @@ title: Proceedings
 permalink: /proceedings/
 ---
 
-To be announced
+Proceedings will be published after the event
