@@ -35,4 +35,4 @@ Law Events Office
 **Registration**
 The registration will be open from 1 September 2023. Note that early registration rates apply until 30 November 2023. The proceedings will be published after the conference (see 'Proceedings'). 
 
-![Banner JURIX](https://www.maastrichtuniversity.nl/sites/default/files/2023-07/Banner%20JURIX.png)
+![Banner JURIX](assets/banner.png)
