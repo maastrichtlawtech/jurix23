@@ -13,10 +13,6 @@ Maastricht, the Netherlands
 
 ![maastricht](assets/maastricht.jpg)
 
-Faculty of Law, Maastricht University
-Bouillonstraat 1–3
-6211 LH Maastricht
-
 ## About the Event
 
 This year, JURIX conference on Legal Knowledge and Information Systems will be hosted in Maastricht, the Netherlands and will take place on December 18-20, 2023. The Foundation for Legal Knowledge Based Systems (JURIX) is an organisation of researchers in the field of Law and Computer Science in the Netherlands and Flanders. Since 1988, JURIX has held annual international conferences on Legal Knowledge and Information Systems.
@@ -28,16 +24,21 @@ Maastricht University (UM) is the most international university in the Netherlan
 
 The local organizer of JURIX 2023 – [Maastricht Law and Tech Lab ](https://www.maastrichtuniversity.nl/about-um/faculties/law/research/law-and-tech-lab)– fosters a community of legal researchers and computer scientists who work collaboratively to integrate law and computer science methods.
 
-## Contact details
-Faculty Of Law
+## Address and Contact details
+Faculty of Law, Maastricht University
+Bouillonstraat 1–3
+6211 LH Maastricht
+
+**Organisational matters**
 Law Events Office
-[Maud Houben-Nijssen](mailto:maud.houben-nijssen@maastrichtuniversity.nl) (for organisational matters)
+[Maud Houben-Nijssen](mailto:maud.houben-nijssen@maastrichtuniversity.nl)
 
-*or*
-
-[The Maastricht Law and Tech lab](mailto:law-techlab@maastrichtuniversity.nl) (for any content-related questions)
+**Content-related matters**
+[The Maastricht Law and Tech lab](mailto:law-techlab@maastrichtuniversity.nl)
 
 ## Registration
-The registration will be open from 1 September 2023. Note that early registration rates apply until 30 November 2023. The proceedings will be published after the conference (see 'Proceedings'). 
+The [registration](/registration) will be open from 1 September 2023. Note that early registration rates apply until 30 November 2023.
+
+The proceedings will be published after the conference (see ['Proceedings'](/proceedings)). 
 
 ![Banner JURIX](assets/banner.png)
