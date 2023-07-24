@@ -73,7 +73,11 @@ Topics include, but are not limited to:
 
 ## Long, Short, and Demo Paper submission
 
-The deadline for paper submission is **September 10th, 2023**, all over the earth. Abstract submission (September 3rd) is recommended.
+The deadline for paper submission is **September 8th, 2023**, all over the earth. Abstract submission (September 1st) is recommended. Papers are to be submitted through the Easychair Conference Management System in PDF format: https://easychair.org/conferences/?conf=jurix2023
+
+All submissions should be formatted using the styles and guidelines in the IOS Press Instructions for Authors.
+
+There are three categories of papers. Please indicate the category of your paper when you submit the paper to Easychair.
 
 The conference proceedings will be published by IOS Press in their series Frontiers in Artificial Intelligence and Applications (FAIA). Papers are to be submitted in PDF format. The JURIX 2023 conference and submission links will be available soon. All submissions should be formatted using the styles and guidelines (https://www.iospress.com/book-article-instructions) in the IOS Press Instructions for Authors.
 
