@@ -93,12 +93,12 @@ Authors can submit short descriptions of a system. These papers should not excee
 
 ## Important dates
 
-| 3 September 2023 (recommended) | Abstract submission deadline               |
+| 1 September 2023 (recommended) | Abstract submission deadline               |
 | ------------------------------ | ------------------------------------------ |
-| 10 September 2023              | Paper (short and long) submission deadline |
-| 10 September 2023              | Demo submission deadline                   |
-| 15 October 2023                | Notification of acceptance                 |
-| 22 October 2023                | Camera-ready deadline                      |
+| 8 September 2023               | Paper (short and long) submission deadline |
+| 8 September 2023               | Demo submission deadline                   |
+| 13 October 2023                | Notification of acceptance                 |
+| 20 October 2023                | Camera-ready deadline                      |
 | 18 December 2023               | Workshops and tutorials                    |
 | 19–20 December 2023            | Main Conference                            |
 
