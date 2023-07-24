@@ -8,6 +8,15 @@ permalink: /committees/
 
 Giovanni Sileno - University of Amsterdam
 
+## Program Committee 
+
+To be announced.
+
+## Doctoral Consortium Chairs 
+
+Monica Palmirani
+Michal Araszkiewicz
+
 ## Organizing Chairs 
 
 ![Gijs van Dijck](assets/gijs.jpg)
@@ -26,11 +35,3 @@ Giovanni Sileno - University of Amsterdam
 
 **Aurelia Tamo-Larrieux**
 
-## Doctoral Consortium Chairs 
-
-Monica Palmirani
-Michal Araszkiewicz
-
-## Program Committee 
-
-To be announced.
