@@ -73,7 +73,7 @@ Topics include, but are not limited to:
 
 ## Long, Short, and Demo Paper submission
 
-The deadline for paper submission is **September 8th, 2023**, all over the earth. Abstract submission (September 1st) is recommended. Papers are to be submitted through the Easychair Conference Management System in PDF format: https://easychair.org/conferences/?conf=jurix2023
+The deadline for paper submission is **September 8th, 2023**, all over the earth. Abstract submission (September 1st) is recommended. Papers are to be submitted through the Easychair Conference Management System in PDF format: [https://easychair.org/conferences/?conf=jurix2023](https://easychair.org/my/conference?conf=jurix2023)
 
 All submissions should be formatted using the styles and guidelines in the IOS Press Instructions for Authors.
 
