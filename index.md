@@ -15,6 +15,10 @@ Maastricht, the Netherlands<br>
 
 ## About the Event
 
+For more than 30 years, the JURIX conference has provided an international forum for research on the intersection of Law, Artificial Intelligence, and Information Systems, under the auspices of the JURIX Foundation for Legal Knowledge Systems.
+
+JURIX is dedicated to exploring recent advancements, challenges, and opportunities of technologies applied to legal and para-legal activities. We invite submissions of original papers on legal information, legal knowledge systems, artificial intelligence and law, computational and socio-technical approaches to law, covering foundations, methods, tools, systems, interfaces, and applications. Papers should demonstrate added value, novelty of contribution and/or analysis, significance of the work, (formal) validity and/or proper evaluation.
+
 This year, JURIX conference on Legal Knowledge and Information Systems will be hosted in Maastricht, the Netherlands and will take place on December 18-20, 2023. The Foundation for Legal Knowledge Based Systems (JURIX) is an organisation of researchers in the field of Law and Computer Science in the Netherlands and Flanders. Since 1988, JURIX has held annual international conferences on Legal Knowledge and Information Systems.
 
 The proceedings of the conferences will be published in the Frontiers of Artificial Intelligence and Applications series of IOS Press. JURIX follows the Golden Standard and provides one of the best dissemination platforms in AI & law. 
