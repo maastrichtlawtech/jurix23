@@ -6,12 +6,12 @@ permalink: /calls/
 
 ## Important dates 
 
-| Submission of abstract                                       | 3 September 2023             |
+| Submission of abstract (recommended)                         | 1 September 2023             |
 | ------------------------------------------------------------ | ---------------------------- |
-| **Submission of long, short and demo papers**                | **10 September 2023**        |
-| Submission of proposals for workshops, tutorials, legal informatics consortia and legal informatics moot courts | 10 September 2023            |
-| Information about acceptance                                 | 15 October 2023              |
-| Upload of camera-ready papers                                | 22 October 2023              |
+| **Submission of long, short and demo papers**                | **8 September 2023**         |
+| Submission of proposals for workshops, tutorials, legal informatics consortia and legal informatics moot courts | 8 September 2023            |
+| Information about acceptance                                 | 13 October 2023              |
+| Upload of camera-ready papers                                | 20 October 2023              |
 | Programme                                                    | 31 October 2023              |
 | Programme with workshops                                     | 14 November 2023             |
 | Deadline Early-Bird Registration                             | 30 November 2023             |
