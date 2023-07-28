@@ -6,7 +6,7 @@ permalink: /workshops/
 
 Besides the main conference track and the Doctoral Consortium, JURIX 2023 will host a number of workshops and tutorials related to the themes of the conference.
 
-We welcome proposals on topics related to AI and law, legal information, legal knowledge systems, and computational and socio-technical approaches to law, following the scope of the conference (see https://easychair.org/cfp/jurix2023 for further information).
+We welcome proposals on topics related to AI and law, legal information, legal knowledge systems, and computational and socio-technical approaches to law, following the scope of the conference (see <https://easychair.org/cfp/jurix2023> for further information).
 
 Workshop and tutorial sessions are scheduled on December 18, 2023.
 
@@ -31,7 +31,7 @@ Workshop proposals must be submitted via e-mail to the Program Chair Giovanni Si
 -   Audience: research groups working in the field, a tentative list of potentially interested participants, expected number of submissions.
 -   List of (potential) members of the program committee (25% confirmed)
 -   Previous editions of the workshop if applicable; related workshops in other venues
--   Submission, notification and camera-ready deadline dates aligned with the ones listed in the “Important Dates” of the main conference (https://jurix23.maastrichtlawtech.eu/calls/)
+-   Submission, notification and camera-ready deadline dates aligned with the ones listed in the “Important Dates” of the main conference (<https://jurix23.maastrichtlawtech.eu/calls/>)
 -   Any further information you deem relevant.
 
 ## Responsibilities of workshop organizers
