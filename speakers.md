@@ -4,4 +4,4 @@ title: Speakers
 permalink: /speakers/
 ---
 
-To be announced
+To be announced.
