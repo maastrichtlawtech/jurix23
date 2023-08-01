@@ -11,7 +11,7 @@ permalink: /calls/
 | Submission of abstract (recommended)                         | 1 September 2023             |
 | ------------------------------------------------------------ | ---------------------------- |
 | **Submission of long, short and demo papers**                | **8 September 2023**         |
-| Submission of proposals for workshops and tutorials          | 8 September 2023             |
+| **Submission of proposals for workshops and tutorials**      | **8 September 2023**         |
 | Information about acceptance                                 | 13 October 2023              |
 | Upload of camera-ready papers                                | 20 October 2023              |
 | Programme                                                    | 31 October 2023              |
@@ -22,6 +22,8 @@ permalink: /calls/
 | Doctoral Consortium                                          | 18 December 2023 (Monday)    |
 | Conference                                                   | 19 December 2023 (Tuesday)   |
 | Conference                                                   | 20 December 2023 (Wednesday) |
+
+--------------
 
 ## Call for Papers 
 
@@ -82,7 +84,9 @@ There are three categories of papers: long, short, and demo. Please indicate a c
 - **Short papers**: (short) descriptions of preliminary results or an innovative idea. These papers should not exceed 6 pages.
 - **Demo papers**: (short) descriptions of a system. These papers should not exceed 4 pages. Authors of demo papers should be willing to share (a screencast of) the demo privately with the reviewers, if so requested.
 
-All papers must be original and not simultaneously submitted to another journal or conference. The conference proceedings will be published by IOS Press in their series Frontiers in Artificial Intelligence and Applications (FAIA).
+All papers must be original and not simultaneously submitted to another journal or conference. The conference proceedings will be published by IOS Press in their series [Frontiers in Artificial Intelligence and Applications](https://www.iospress.com/catalog/book-series/frontiers-in-artificial-intelligence-and-applications) (FAIA).
+
+--------------
 
 ## Call for Workshops and Tutorials  
 
