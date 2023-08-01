@@ -4,6 +4,8 @@ title: Calls
 permalink: /calls/
 ---
 
+[Call for Papers](#call-for-papers) | [Call for Workshops and Tutorials](#call-for-workshops-and-tutorials)
+
 ## Important dates 
 
 | Submission of abstract (recommended)                         | 1 September 2023             |
@@ -82,7 +84,7 @@ There are three categories of papers: long, short, and demo. Please indicate a c
 
 All papers must be original and not simultaneously submitted to another journal or conference. The conference proceedings will be published by IOS Press in their series Frontiers in Artificial Intelligence and Applications (FAIA).
 
-## Call for Workshops and tutorials  
+## Call for Workshops and Tutorials  
 
 Besides the main conference track and the Doctoral Consortium, JURIX 2023 will host a number of workshops and tutorials related to the themes of the conference. We welcome proposals on topics related to AI and law, legal information, legal knowledge systems, and computational and socio-technical approaches to law, following the scope of the JURIX conference. 
 Workshop and tutorial sessions are scheduled on December 18, 2023.
