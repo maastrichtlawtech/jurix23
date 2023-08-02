@@ -4,7 +4,7 @@ title: Calls
 permalink: /calls/
 ---
 
-[Call for Papers](#call-for-papers) | [Call for Workshops and Tutorials](#call-for-workshops-and-tutorials)
+[Call for Papers](#call-for-papers), [Call for Workshops and Tutorials](#call-for-workshops-and-tutorials)
 
 ## Important dates 
 
@@ -23,7 +23,10 @@ permalink: /calls/
 | Conference                                                   | 19 December 2023 (Tuesday)   |
 | Conference                                                   | 20 December 2023 (Wednesday) |
 
+<br/>
+
 --------------
+<br/>
 
 ## Call for Papers 
 
@@ -86,7 +89,10 @@ There are three categories of papers: long, short, and demo. Please indicate a c
 
 All papers must be original and not simultaneously submitted to another journal or conference. The conference proceedings will be published by IOS Press in their series [Frontiers in Artificial Intelligence and Applications](https://www.iospress.com/catalog/book-series/frontiers-in-artificial-intelligence-and-applications) (FAIA).
 
+<br/>
+
 --------------
+<br/>
 
 ## Call for Workshops and Tutorials  
 
