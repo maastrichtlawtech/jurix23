@@ -32,7 +32,7 @@ permalink: /calls/
 
 For more than 30 years, the JURIX conference has provided an international forum for research on the intersection of Law, Artificial Intelligence, and Information Systems, under the auspices of the JURIX Foundation for Legal Knowledge Systems.
 
-The purpose of the JURIX conference series is to foster scientific exchange between researchers, practitioners, students, dedicated to exploring recent advancements, challenges, and opportunities of technologies applied to legal and para-legal activities. We invite submissions of original papers on legal information, legal knowledge systems, artificial intelligence and law, computational and socio-technical approaches to law, covering foundations, methods, tools, systems, interfaces, and applications. Papers should demonstrate added value, novelty of contribution and/or analysis, significance of the work, (formal) validity and/or proper evaluation.
+The purpose of the JURIX conference series is to foster scientific exchange between researchers, practitioners, students, dedicated to exploring recent advancements, challenges, and opportunities of technologies applied to legal and para-legal activities. We invite submissions of original papers on legal information, legal knowledge systems, artificial intelligence and law, computational and socio-technical approaches to law and normative systems, covering foundations, methods, tools, systems, interfaces, and applications. Papers should demonstrate added value, novelty of contribution and/or analysis, significance of the work, (formal) validity and/or proper evaluation.
 
 ### Topics
 
@@ -83,9 +83,9 @@ Topics include, but are not limited to:
 The deadline for paper submission is **September 8th, 2023**, all over the earth. Abstract submission (September 1st) is recommended. All submissions should be formatted using the styles and guidelines in the IOS Press Instructions for Authors ([https://www.iospress.com/book-article-instructions]). Papers are to be submitted in PDF format through Easychair ([https://easychair.org/conferences/?conf=jurix2023]).
 
 There are three categories of papers: long, short, and demo. Please indicate a category when you submit your paper.
-- **Long papers**: reports of well-developed and original research. An accepted long paper scores well in terms of relevance, originality, technical quality, significance, literature review, presentation, reviewer’s confidence, and overall evaluation. These should not exceed 10 pages. A paper which is not accepted as a long paper may be recommended by reviewers as a short paper.
-- **Short papers**: (short) descriptions of preliminary results or an innovative idea. These papers should not exceed 6 pages.
-- **Demo papers**: (short) descriptions of a system. These papers should not exceed 4 pages. Authors of demo papers should be willing to share (a screencast of) the demo privately with the reviewers, if so requested.
+- **Long papers**: reports of well-developed and original research. An accepted long paper scores well in terms of relevance, originality, technical quality, significance, literature review, presentation, reviewer’s confidence, and overall evaluation. These should not exceed 10 pages (including references). A paper which is not accepted as a long paper may be recommended by reviewers as a short paper.
+- **Short papers**: (short) descriptions of preliminary results or an innovative idea. These papers should not exceed 6 pages (including references).
+- **Demo papers**: (short) descriptions of a system. These papers should not exceed 4 pages (including references). Authors of demo papers should be willing to share (a screencast of) the demo privately with the reviewers, if so requested.
 
 All papers must be original and not simultaneously submitted to another journal or conference. The conference proceedings will be published by IOS Press in their series [Frontiers in Artificial Intelligence and Applications](https://www.iospress.com/catalog/book-series/frontiers-in-artificial-intelligence-and-applications) (FAIA).
 
