@@ -32,7 +32,7 @@ permalink: /calls/
 
 For more than 30 years, the JURIX conference has provided an international forum for research on the intersection of Law, Artificial Intelligence, and Information Systems, under the auspices of the JURIX Foundation for Legal Knowledge Systems.
 
-The purpose of the JURIX conference series is to foster scientific exchange between researchers, practitioners, students, dedicated to exploring recent advancements, challenges, and opportunities of technologies applied to legal and para-legal activities. We invite submissions of original papers on legal information, legal knowledge systems, artificial intelligence and law, computational and socio-technical approaches to law and normative systems, covering foundations, methods, tools, systems, interfaces, and applications. Papers should demonstrate added value, novelty of contribution and/or analysis, significance of the work, (formal) validity and/or proper evaluation.
+The purpose of the JURIX conference series is to foster scientific exchange between researchers, practitioners, students, dedicated to exploring recent advancements, challenges, and opportunities of technologies applied to legal and para-legal activities. We invite submissions of original papers on legal information, legal knowledge systems, artificial intelligence and law, computational and socio-technical approaches to law and other normative systems, covering foundations, methods, tools, systems, interfaces, and applications. Papers should demonstrate added value, novelty of contribution and/or analysis, significance of the work, (formal) validity and/or proper evaluation.
 
 ### Topics
 
