@@ -87,7 +87,7 @@ There are three categories of papers: long, short, and demo. Please indicate a c
 - **Short papers**: (short) descriptions of preliminary results or an innovative idea. These papers should not exceed 6 pages (including references).
 - **Demo papers**: (short) descriptions of a system. These papers should not exceed 4 pages (including references). Authors of demo papers should be willing to share (a screencast of) the demo privately with the reviewers, if so requested.
 
-All papers must be original and not simultaneously submitted to another journal or conference. The conference proceedings will be published by IOS Press in their series [Frontiers in Artificial Intelligence and Applications](https://www.iospress.com/catalog/book-series/frontiers-in-artificial-intelligence-and-applications) (FAIA).
+All papers must be original and not simultaneously submitted to another journal or conference. The conference proceedings will be published by IOS Press in their series [Frontiers in Artificial Intelligence and Applications](https://www.iospress.com/catalog/book-series/frontiers-in-artificial-intelligence-and-applications) (FAIA) as gold open access.
 
 <br/>
 
