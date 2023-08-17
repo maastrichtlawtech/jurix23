@@ -9,7 +9,7 @@ permalink: /committees/
 <table>
 <tr style="background-color: transparent;">
   <td style="border-color: transparent; padding: 0px 30px 10px 0px;">
-    <img alt="Giovanni Sileno" src="https://jurix23.maastrichtlawtech.eu/assets/giovanni.jpg" height="170px" />
+    <a href=https://gsileno.net><img alt="Giovanni Sileno" src="https://jurix23.maastrichtlawtech.eu/assets/giovanni.jpg" height="170px" /></a>
   </td>
 </tr>
 <tr style="background-color: transparent;">
