@@ -57,7 +57,6 @@ permalink: /committees/
 </tr>
 <tr style="background-color: transparent;">
   <td colspan="4" style="border-color: transparent; padding: 0px 30px 5px 0px;">email: <a href="mailto:law-techlab@maastrichtuniversity.nl">law-techlab@maastrichtuniversity.nl</a></td>
-</tr></td>
 </tr>
 </table>
 
