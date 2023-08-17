@@ -84,5 +84,6 @@ permalink: /committees/
 
 ## Organizing Chairs 
 
-| <img alt="Gijs van Dijck" src="https://jurix23.maastrichtlawtech.eu/assets/gijs.jpg" width="150px" /> **Gijs van Dijck** | <img alt="Jerry Spanakis" src="https://jurix23.maastrichtlawtech.eu/assets/jerry.png" width="150px" /> **Jerry Spanakis** | <img alt="Konrad Kollnig" src="https://jurix23.maastrichtlawtech.eu/assets/konrad.jpg" width="150px" /> **Konrad Kollnig** | <img alt="Aurelia Tamo-Larrieux" src="https://jurix23.maastrichtlawtech.eu/assets/aurelia.jpg" width="200px" /> **Aurelia Tamo-Larrieux** |
+:-----:|:-----:|:-----:|:-----:
+<img alt="Gijs van Dijck" src="https://jurix23.maastrichtlawtech.eu/assets/gijs.jpg" width="150px" /> **Gijs van Dijck** | <img alt="Jerry Spanakis" src="https://jurix23.maastrichtlawtech.eu/assets/jerry.png" width="150px" /> **Jerry Spanakis** | <img alt="Konrad Kollnig" src="https://jurix23.maastrichtlawtech.eu/assets/konrad.jpg" width="150px" /> **Konrad Kollnig** | <img alt="Aurelia Tamo-Larrieux" src="https://jurix23.maastrichtlawtech.eu/assets/aurelia.jpg" width="200px" /> **Aurelia Tamo-Larrieux** 
 
