@@ -10,6 +10,10 @@ permalink: /committees/
 <tr>
   <td>
     <img alt="Giovanni Sileno" src="https://jurix23.maastrichtlawtech.eu/assets/giovanni.jpg" width="180px" />
+  </td>
+</tr>
+<tr>
+  <td>
     <strong>Giovanni Sileno</strong>, University of Amsterdam
   </td>
 </tr>
