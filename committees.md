@@ -13,7 +13,7 @@ permalink: /committees/
   </td>
 </tr>
 <tr style="background-color: transparent;">
-  <td style="border-color: transparent; padding: 0px 30px 0px 0px;">
+  <td style="vertical-align: top; border-color: transparent; padding: 0px 30px 0px 0px;">
     <strong>Giovanni Sileno</strong>, University of Amsterdam 
   </td>
 </tr>
@@ -42,10 +42,10 @@ permalink: /committees/
   </td>
 </tr>
 <tr style="background-color: transparent;">
-  <td style="border-color: transparent; padding: 0px 30px 5px 0px;"> <strong>Gijs van Dijck</strong> </td>
-  <td style="border-color: transparent; padding: 0px 30px 5px 0px;"> <strong>Jerry Spanakis</strong> </td>
-  <td style="border-color: transparent; padding: 0px 30px 5px 0px;"> <strong>Konrad Kollnig</strong> </td>
-  <td style="border-color: transparent; padding: 0px 30px 5px 0px;"> <strong>Aurelia Tamo-Larrieux</strong> </td>
+  <td style="vertical-align: top; border-color: transparent; padding: 0px 30px 5px 0px;"> <strong>Gijs van Dijck</strong> </td>
+  <td style="vertical-align: top; border-color: transparent; padding: 0px 30px 5px 0px;"> <strong>Jerry Spanakis</strong> </td>
+  <td style="vertical-align: top; border-color: transparent; padding: 0px 30px 5px 0px;"> <strong>Konrad Kollnig</strong> </td>
+  <td style="vertical-align: top; border-color: transparent; padding: 0px 30px 5px 0px;"> <strong>Aurelia Tamo-Larrieux</strong> </td>
 </tr>
 <tr style="background-color: transparent;">
   <td colspan="4" style="border-color: transparent; padding: 0px 30px 0px 0px;"><a href="https://www.maastrichtuniversity.nl/about-um/faculties/law/research/law-and-tech-lab"><strong>Maastricht Law and Tech lab</strong></a>, Maastricht University</td>
