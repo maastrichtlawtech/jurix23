@@ -7,12 +7,12 @@ permalink: /committees/
 ## Program Chair 
 
 <table style="width: 200px;">
-<tr>
+<tr style="background-color: white;">
   <td style="border-color: white;">
     <img alt="Giovanni Sileno" src="https://jurix23.maastrichtlawtech.eu/assets/giovanni.jpg" width="180px" />
   </td>
 </tr>
-<tr>
+<tr style="background-color: white;">
   <td style="border-color: white;">
     <strong>Giovanni Sileno</strong>, University of Amsterdam
   </td>
@@ -22,17 +22,17 @@ permalink: /committees/
 ## Organizing Chairs 
 
 <table>
-<tr>
+<tr style="background-color: white;">
   <td style="border-color: white;"> <img alt="Gijs van Dijck" src="https://jurix23.maastrichtlawtech.eu/assets/gijs.jpg" width="140px" /> </td>
   <td style="border-color: white;"> <img alt="Jerry Spanakis" src="https://jurix23.maastrichtlawtech.eu/assets/jerry.png" width="160px" /> </td>
   <td style="border-color: white;"> <img alt="Konrad Kollnig" src="https://jurix23.maastrichtlawtech.eu/assets/konrad.jpg" width="150px" /> </td>
   <td style="border-color: white;"> <img alt="Aurelia Tamo-Larrieux" src="https://jurix23.maastrichtlawtech.eu/assets/aurelia.jpg" width="230px" /> </td>
 </tr>
-<tr>
-  <td> <strong>Gijs van Dijck</strong> </td>
-  <td> <strong>Jerry Spanakis</strong> </td>
-  <td> <strong>Konrad Kollnig</strong> </td>
-  <td> <strong>Aurelia Tamo-Larrieux</strong> </td>
+<tr style="background-color: white;">
+  <td style="border-color: white;"> <strong>Gijs van Dijck</strong> </td>
+  <td style="border-color: white;"> <strong>Jerry Spanakis</strong> </td>
+  <td style="border-color: white;"> <strong>Konrad Kollnig</strong> </td>
+  <td style="border-color: white;"> <strong>Aurelia Tamo-Larrieux</strong> </td>
 </tr>
 </table>
 
