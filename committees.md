@@ -6,7 +6,8 @@ permalink: /committees/
 
 ## Program Chair 
 
-<img alt="Giovanni Sileno" src="https://jurix23.maastrichtlawtech.eu/assets/giovanni.jpg" width="100" />
+<img alt="Giovanni Sileno" src="https://jurix23.maastrichtlawtech.eu/assets/giovanni.jpg" width="150px" />
+
 **Giovanni Sileno**, University of Amsterdam
 
 ## Program Committee 
