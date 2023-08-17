@@ -9,7 +9,7 @@ permalink: /committees/
 <table>
 <tr style="background-color: transparent;">
   <td style="border-color: transparent; padding: 0px 30px 10px 0px;">
-    <img alt="Giovanni Sileno" src="https://jurix23.maastrichtlawtech.eu/assets/giovanni.jpg" height="170px" />
+    <img alt="Giovanni Sileno" src="https://jurix23.maastrichtlawtech.eu/assets/giovanni.jpg" style="max-height: 170px;" />
   </td>
 </tr>
 <tr style="background-color: transparent;">
@@ -29,16 +29,16 @@ permalink: /committees/
 <table>
 <tr style="background-color: transparent;">
   <td style="vertical-align: bottom; border-color: transparent; padding: 0px 30px 10px 0px;"> 
-    <img alt="Gijs van Dijck" src="https://jurix23.maastrichtlawtech.eu/assets/gijs.jpg" height="170px" /> 
+    <img alt="Gijs van Dijck" src="https://jurix23.maastrichtlawtech.eu/assets/gijs.jpg" style="max-height: 170px;" /> 
   </td>
   <td style="vertical-align: bottom; border-color: transparent; padding: 0px 30px 10px 0px;">
-    <img alt="Jerry Spanakis" src="https://jurix23.maastrichtlawtech.eu/assets/jerry.png" height="170px" /> 
+    <img alt="Jerry Spanakis" src="https://jurix23.maastrichtlawtech.eu/assets/jerry.png" style="max-height: 170px;" /> 
   </td>
   <td style="vertical-align: bottom; border-color: transparent; padding: 0px 30px 10px 0px;"> 
-    <img alt="Konrad Kollnig" src="https://jurix23.maastrichtlawtech.eu/assets/konrad.jpg" height="170px" /> 
+    <img alt="Konrad Kollnig" src="https://jurix23.maastrichtlawtech.eu/assets/konrad.jpg" style="max-height: 170px;" /> 
   </td>
   <td style="vertical-align: bottom; border-color: transparent; padding: 0px 30px 10px 0px;"> 
-    <img alt="Aurelia Tamo-Larrieux" src="https://jurix23.maastrichtlawtech.eu/assets/aurelia.jpg" height="170px" /> 
+    <img alt="Aurelia Tamo-Larrieux" src="https://jurix23.maastrichtlawtech.eu/assets/aurelia.jpg" style="max-height: 170px;" /> 
   </td>
 </tr>
 <tr style="background-color: transparent;">
