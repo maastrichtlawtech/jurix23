@@ -23,16 +23,16 @@ permalink: /committees/
 
 <table>
 <tr style="background-color: transparent;">
-  <td style="border-color: transparent; padding: 0px 15px 5px 0px;"> 
+  <td style="vertical-align: bottom; border-color: transparent; padding: 0px 15px 5px 0px;"> 
     <img alt="Gijs van Dijck" src="https://jurix23.maastrichtlawtech.eu/assets/gijs.jpg" width="140px" /> 
   </td>
-  <td style="border-color: transparent; padding: 0px 15px 5px 0px;">
+  <td style="vertical-align: bottom; border-color: transparent; padding: 0px 15px 5px 0px;">
     <img alt="Jerry Spanakis" src="https://jurix23.maastrichtlawtech.eu/assets/jerry.png" width="160px" /> 
   </td>
-  <td style="border-color: transparent; padding: 0px 15px 5px 0px;"> 
+  <td style="vertical-align: bottom; border-color: transparent; padding: 0px 15px 5px 0px;"> 
     <img alt="Konrad Kollnig" src="https://jurix23.maastrichtlawtech.eu/assets/konrad.jpg" width="150px" /> 
   </td>
-  <td style="border-color: transparent; padding: 0px 15px 5px 0px;"> 
+  <td style="vertical-align: bottom; border-color: transparent; padding: 0px 15px 5px 0px;"> 
     <img alt="Aurelia Tamo-Larrieux" src="https://jurix23.maastrichtlawtech.eu/assets/aurelia.jpg" width="230px" /> 
   </td>
 </tr>
