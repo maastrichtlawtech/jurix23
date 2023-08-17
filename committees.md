@@ -6,9 +6,14 @@ permalink: /committees/
 
 ## Program Chair 
 
-
-<img alt="Giovanni Sileno" src="https://jurix23.maastrichtlawtech.eu/assets/giovanni.jpg" width="180px" />
-**Giovanni Sileno**, University of Amsterdam
+<table>
+<tr>
+  <td>
+    <img alt="Giovanni Sileno" src="https://jurix23.maastrichtlawtech.eu/assets/giovanni.jpg" width="180px" />
+    <strong>Giovanni Sileno</strong>, University of Amsterdam
+  </td>
+</tr>
+</table>
 
 ## Organizing Chairs 
 
@@ -20,10 +25,10 @@ permalink: /committees/
   <td> <img alt="Aurelia Tamo-Larrieux" src="https://jurix23.maastrichtlawtech.eu/assets/aurelia.jpg" width="240px" /> </td>
 </tr>
 <tr>
-  <td> **Gijs van Dijck** </td>
-  <td> **Jerry Spanakis** </td>
-  <td> **Konrad Kollnig** </td>
-  <td> **Aurelia Tamo-Larrieux** </td>
+  <td> <strong>Gijs van Dijck</strong> </td>
+  <td> <strong>Jerry Spanakis</strong> </td>
+  <td> <strong>Konrad Kollnig</strong> </td>
+  <td> <strong>Aurelia Tamo-Larrieux</strong> </td>
 </tr>
 </table>
 
