@@ -96,7 +96,7 @@ permalink: /committees/
 
 **Konrad Kollnig**
 
-<img alt="Aurelia Tamo-Larrieux" src="https://jurix23.maastrichtlawtech.eu/assets/aurelia.jpg" width="150px" />
+<img alt="Aurelia Tamo-Larrieux" src="https://jurix23.maastrichtlawtech.eu/assets/aurelia.jpg" width="200px" />
 
 **Aurelia Tamo-Larrieux**
 
