@@ -6,7 +6,7 @@ permalink: /committees/
 
 ## Program Chair 
 
-<table style="width: 200px;">
+<table>
 <tr style="background-color: white;">
   <td style="border-color: white;">
     <img alt="Giovanni Sileno" src="https://jurix23.maastrichtlawtech.eu/assets/giovanni.jpg" width="180px" />
