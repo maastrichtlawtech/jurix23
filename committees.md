@@ -8,7 +8,7 @@ permalink: /committees/
 
 <table>
 <tr style="background-color: transparent;">
-  <td style="border-color: transparent; padding: 0px 30px 5px 0px;">
+  <td style="border-color: transparent; padding: 0px 30px 10px 0px;">
     <img alt="Giovanni Sileno" src="https://jurix23.maastrichtlawtech.eu/assets/giovanni.jpg" height="170px" />
   </td>
 </tr>
@@ -28,16 +28,16 @@ permalink: /committees/
 
 <table>
 <tr style="background-color: transparent;">
-  <td style="vertical-align: bottom; border-color: transparent; padding: 0px 30px 5px 0px;"> 
+  <td style="vertical-align: bottom; border-color: transparent; padding: 0px 30px 10px 0px;"> 
     <img alt="Gijs van Dijck" src="https://jurix23.maastrichtlawtech.eu/assets/gijs.jpg" height="170px" /> 
   </td>
-  <td style="vertical-align: bottom; border-color: transparent; padding: 0px 30px 5px 0px;">
+  <td style="vertical-align: bottom; border-color: transparent; padding: 0px 30px 10px 0px;">
     <img alt="Jerry Spanakis" src="https://jurix23.maastrichtlawtech.eu/assets/jerry.png" height="170px" /> 
   </td>
-  <td style="vertical-align: bottom; border-color: transparent; padding: 0px 30px 5px 0px;"> 
+  <td style="vertical-align: bottom; border-color: transparent; padding: 0px 30px 10px 0px;"> 
     <img alt="Konrad Kollnig" src="https://jurix23.maastrichtlawtech.eu/assets/konrad.jpg" height="170px" /> 
   </td>
-  <td style="vertical-align: bottom; border-color: transparent; padding: 0px 30px 5px 0px;"> 
+  <td style="vertical-align: bottom; border-color: transparent; padding: 0px 30px 10px 0px;"> 
     <img alt="Aurelia Tamo-Larrieux" src="https://jurix23.maastrichtlawtech.eu/assets/aurelia.jpg" height="170px" /> 
   </td>
 </tr>
@@ -48,7 +48,7 @@ permalink: /committees/
   <td style="border-color: transparent; padding: 0px 30px 5px 0px;"> <strong>Aurelia Tamo-Larrieux</strong> </td>
 </tr>
 <tr style="background-color: transparent;">
-  <td colspan="4" style="border-color: transparent; padding: 0px 30px 0px 0px;"><a href="https://www.maastrichtuniversity.nl/about-um/faculties/law/research/law-and-tech-lab">Maastricht Law and Tech lab</a>, Maastricht University</td>
+  <td colspan="4" style="border-color: transparent; padding: 0px 30px 0px 0px;"><a href="https://www.maastrichtuniversity.nl/about-um/faculties/law/research/law-and-tech-lab"><strong>Maastricht Law and Tech lab</strong></a>, Maastricht University</td>
 </tr>
 <tr style="background-color: transparent;">
   <td colspan="4" style="border-color: transparent; padding: 0px 30px 0px 0px;">contact: <a href="mailto:law-techlab@maastrichtuniversity.nl">law-techlab@maastrichtuniversity.nl</a></td>
