@@ -6,7 +6,7 @@ permalink: /committees/
 
 ## Program Chair 
 
-<table>
+<table style="border: 0px">
 <tr>
   <td>
     <img alt="Giovanni Sileno" src="https://jurix23.maastrichtlawtech.eu/assets/giovanni.jpg" width="180px" />
@@ -21,7 +21,7 @@ permalink: /committees/
 
 ## Organizing Chairs 
 
-<table>
+<table style="border: 0px">
 <tr>
   <td> <img alt="Gijs van Dijck" src="https://jurix23.maastrichtlawtech.eu/assets/gijs.jpg" width="130px" /> </td>
   <td> <img alt="Jerry Spanakis" src="https://jurix23.maastrichtlawtech.eu/assets/jerry.png" width="160px" /> </td>
