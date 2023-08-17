@@ -6,7 +6,7 @@ permalink: /committees/
 
 ## Program Chair 
 
-![Giovanni Sileno](assets/giovanni.jpg | width=100)
+![Giovanni Sileno](assets/giovanni.jpg)
 
 - Giovanni Sileno, University of Amsterdam
 
@@ -84,19 +84,19 @@ permalink: /committees/
 
 ## Organizing Chairs 
 
-![Gijs van Dijck](assets/gijs.jpg | width=100)
+![Gijs van Dijck](assets/gijs.jpg)
 
 **Gijs van Dijck**
 
-![Jerry Spanakis](assets/jerry.png | width=100)
+![Jerry Spanakis](assets/jerry.png)
 
 **Jerry Spanakis**
 
-![Konrad Kollnig](assets/konrad.jpg | width=100)
+![Konrad Kollnig](assets/konrad.jpg)
 
 **Konrad Kollnig**
 
-![Aurelia Tamo-Larrieux (versie 2)](assets/aurelia.jpg | width=100)
+![Aurelia Tamo-Larrieux (versie 2)](assets/aurelia.jpg)
 
 **Aurelia Tamo-Larrieux**
 
