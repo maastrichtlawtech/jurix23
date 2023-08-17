@@ -14,8 +14,8 @@ permalink: /committees/
 </tr>
 <tr style="background-color: transparent;">
   <td style="border-color: transparent; padding: 0px 30px 5px 0px;">
-    <strong>Giovanni Sileno</strong>, University of Amsterdam
-    <pre>g.sileno@uva.nl</pre> 
+    <strong>Giovanni Sileno</strong>, University of Amsterdam 
+    g.sileno@uva.nl 
   </td>
 </tr>
 </table>
@@ -44,7 +44,7 @@ permalink: /committees/
   <td style="border-color: transparent; padding: 0px 30px 5px 0px;"> <strong>Aurelia Tamo-Larrieux</strong> </td>
 </tr>
 <tr style="background-color: transparent;">
-  <td colspan="4" style="border-color: transparent; padding: 0px 30px 5px 0px;"><a href="https://www.maastrichtuniversity.nl/about-um/faculties/law/research/law-and-tech-lab">Maastricht Law and Tech lab</a> <pre>law-techlab@maastrichtuniversity.nl</pre</td>
+  <td colspan="4" style="border-color: transparent; padding: 0px 30px 5px 0px;"><a href="https://www.maastrichtuniversity.nl/about-um/faculties/law/research/law-and-tech-lab">Maastricht Law and Tech lab</a> law-techlab@maastrichtuniversity.nl</td>
 </tr>
 
 </table>
