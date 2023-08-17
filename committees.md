@@ -15,7 +15,11 @@ permalink: /committees/
 <tr style="background-color: transparent;">
   <td style="border-color: transparent; padding: 0px 30px 5px 0px;">
     <strong>Giovanni Sileno</strong>, University of Amsterdam 
-    g.sileno@uva.nl 
+  </td>
+</tr>
+<tr style="background-color: transparent;">
+  <td style="border-color: transparent; padding: 0px 30px 5px 0px;">
+    contact: <a href="mailto:g.sileno@uva.nl">g.sileno@uva.nl</a>
   </td>
 </tr>
 </table>
@@ -46,7 +50,10 @@ permalink: /committees/
 <tr style="background-color: transparent;">
   <td colspan="4" style="border-color: transparent; padding: 0px 30px 5px 0px;"><a href="https://www.maastrichtuniversity.nl/about-um/faculties/law/research/law-and-tech-lab">Maastricht Law and Tech lab</a> law-techlab@maastrichtuniversity.nl</td>
 </tr>
-
+<tr style="background-color: transparent;">
+  <td colspan="4" style="border-color: transparent; padding: 0px 30px 5px 0px;">email: <a href="mailto:law-techlab@maastrichtuniversity.nl">law-techlab@maastrichtuniversity.nl</a></td>
+</tr></td>
+</tr>
 </table>
 
 ## Program Committee 
