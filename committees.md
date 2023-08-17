@@ -7,14 +7,14 @@ permalink: /committees/
 ## Program Chair 
 |     | 
 | --- |
-| <img alt="Giovanni Sileno" src="https://jurix23.maastrichtlawtech.eu/assets/giovanni.jpg" width="200px" /> |
+| <img alt="Giovanni Sileno" src="https://jurix23.maastrichtlawtech.eu/assets/giovanni.jpg" width="180px" /> |
 | **Giovanni Sileno**, University of Amsterdam |
 
 ## Organizing Chairs 
 
 |     |     |     |     |
 | --- | --- | --- | --- |
-| <img alt="Gijs van Dijck" src="https://jurix23.maastrichtlawtech.eu/assets/gijs.jpg" width="130px" /> | <img alt="Jerry Spanakis" src="https://jurix23.maastrichtlawtech.eu/assets/jerry.png" width="160px" /> | <img alt="Konrad Kollnig" src="https://jurix23.maastrichtlawtech.eu/assets/konrad.jpg" width="150px" /> | <img alt="Aurelia Tamo-Larrieux" src="https://jurix23.maastrichtlawtech.eu/assets/aurelia.jpg" width="230px" /> |
+| <img alt="Gijs van Dijck" src="https://jurix23.maastrichtlawtech.eu/assets/gijs.jpg" width="130px" /> | <img alt="Jerry Spanakis" src="https://jurix23.maastrichtlawtech.eu/assets/jerry.png" width="160px" /> | <img alt="Konrad Kollnig" src="https://jurix23.maastrichtlawtech.eu/assets/konrad.jpg" width="150px" /> | <img alt="Aurelia Tamo-Larrieux" src="https://jurix23.maastrichtlawtech.eu/assets/aurelia.jpg" width="240px" /> |
 | **Gijs van Dijck** | **Jerry Spanakis** | **Konrad Kollnig** | **Aurelia Tamo-Larrieux** |
 
 ## Program Committee 
