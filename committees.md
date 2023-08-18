@@ -73,6 +73,7 @@ permalink: /committees/
 - Pompeu Casanovas, Universitat Autònoma de Barcelona (UAB), Spain
 - Ilaria Canavotto, University of Maryland, United States
 - Marcello Ceci, University of Luxembourg, Luxembourg
+- Jack G. Conrad, Thomson Reuters, United States
 - Giuseppe Contissa, University of Bologna, Italy
 - Claudia d'Amato, University of Bari, Italy
 - Luigi Di Caro, University of Torino, Italy
@@ -96,7 +97,7 @@ permalink: /committees/
 - Tomer Libal, American University of Paris, France
 - Reka Markovich, University of Luxembourg, Luxembourg
 - Florian Mattes, TU Munich, Germany
-- Thorne Mccarty, Rutgers University, United States
+- Thorne McCarty, Rutgers University, United States
 - Denis Merigoux, INRIA, France
 - Paulo Novais, University of Minho, Portugal
 - Gordon Pace, University of Malta, Malta
@@ -113,13 +114,13 @@ permalink: /committees/
 - Ken Satoh, National Institute of Informatics and Sokendai, Japan
 - Jaromir Savelka, Carnegie Mellon University, United States
 - Erich Schweighofer, University of Vienna, Austria
-- Clara Smith, Universidad Nacional de La Plata (UNLP), Universidad Católica de La Plata (UCALP), Argentina
+- Clara Smith, UNLP, UCALP, Argentina
 - Christoph Sorge, Saarland University, Germany
 - Sarah Sutherland, Canadian Legal Information Institute (CanLII), Canada
 - Leon van der Torre, University of Luxembourg, Luxembourg
 - Tom Van Engers, University of Amsterdam, Netherlands
 - Jolien Ubacht, TU Delft, Netherlands
-- Marc van Opijnen, Publications Office of the Netherlands (UBR|KOOP), Netherlands
+- Marc van Opijnen, Publications Office of the Netherlands (KOOP), Netherlands
 - Bart Verheij, University of Groningen, Netherlands
 - Serena Villata, CNRS - I3S Sophia-Antipolis, France
 - Fabio Vitali, University of Bologna, Italy
