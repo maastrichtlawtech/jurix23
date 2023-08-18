@@ -59,7 +59,7 @@ permalink: /committees/
 
 (Still updated)
 
-- Tommaso Agnoloni, CNR-IGSG, Italy
+- Tommaso Agnoloni, IGSG-CNR, Italy
 - Francisco Andrade, University of Minho, Portugal
 - Michal Araszkiewicz, Jagiellonian University, Poland
 - Kevin Ashley, University of Pittsburgh, United States
@@ -68,10 +68,10 @@ permalink: /committees/
 - Karim Benyekhlef, Université de Montréal, Canada
 - Floris Bex, Utrecht University, Netherlands
 - Alexander Boer, KPMG, Netherlands
-- Georg Borges, Universität des Saarlandes, Germany
+- Georg Borges, Saarlandes University, Germany
 - Karl Branting, MITRE, United States
-- Pompeu Casanovas, UAB, Spain
-- Ilaria Canavotto, Maryland University, United States
+- Pompeu Casanovas, Universitat Autònoma de Barcelona (UAB), Spain
+- Ilaria Canavotto, University of Maryland, United States
 - Marcello Ceci, University of Luxembourg, Luxembourg
 - Giuseppe Contissa, University of Bologna, Italy
 - Claudia d'Amato, University of Bari, Italy
@@ -79,15 +79,15 @@ permalink: /committees/
 - Arthur Dyevre, KU Leuven, Belgium
 - Massimo Durante, University of Torino, Italy
 - Jenny Eriksson Lundström, Uppsala University, Sweden
-- Nicoletta Fornara, Università della Svizzera Italiana, Svizzera
-- Enrico Francesconi, CNR-IGSG, Italy
+- Nicoletta Fornara, Università della Svizzera Italiana, Switzerland
+- Enrico Francesconi, IGSG-CNR, Italy
 - Aldo Gangemi, University of Bologna, CNR-ISTC, Italy
 - Marco Giacalone, University of Naples Federico II, Italy
 - Guido Governatori, Independent researcher, Australia
 - Cristine Griffo, Free University of Bozen-Bolzano, Italy
 - Davide Grossi, University of Groningen, Netherlands
-- Jakub Harasta, Masaryk University, Czechia
-- Mustafa Hashmi, Data 61 , CSIRO, Australia
+- Jakub Harasta, Masaryk University, Czech Republic
+- Mustafa Hashmi, Data 61, CSIRO, Australia
 - Jeff Horty, University of Maryland, United States
 - Joris Hulstijn, University of Luxembourg, Luxembourg
 - John Joergensen, Rutgers University, United States
@@ -100,28 +100,28 @@ permalink: /committees/
 - Denis Merigoux, INRIA, France
 - Paulo Novais, University of Minho, Portugal
 - Gordon Pace, University of Malta, Malta
-- Ugo Pagallo, Dept. of Law, Univ. of Turin, Italy
+- Ugo Pagallo, University of Torino, Italy
 - Julian Padget, University of Bath, United Kingdom
-- Monica Palmirani, CIRSFID, Italy
+- Monica Palmirani, University of Bologna, Italy
 - Marta Poblet, RMIT University, Australia
-- Radim Polcak, Masaryk University, Czechia
+- Radim Polcak, Masaryk University, Czech Republic
 - Henry Prakken, Utrecht University, Netherlands
-- Paulo Quaresma, Universidade de Evora, Portugal
-- Antoni Roig, Autonomous University of Barcelona, Spain
+- Paulo Quaresma, Universidade de Évora, Portugal
+- Antoni Roig, Universitat Autònoma de Barcelona (UAB), Spain
 - Antonino Rotolo, University of Bologna, Italy
 - Cristiana Santos, Utrecht University, Netherlands
 - Ken Satoh, National Institute of Informatics and Sokendai, Japan
 - Jaromir Savelka, Carnegie Mellon University, United States
 - Erich Schweighofer, University of Vienna, Austria
-- Clara Smith, UNLP, UCALP, Argentina
+- Clara Smith, Universidad Nacional de La Plata (UNLP), Universidad Católica de La Plata (UCALP), Argentina
 - Christoph Sorge, Saarland University, Germany
-- Sarah Sutherland, Canadian Legal Information Institute, Canada
+- Sarah Sutherland, Canadian Legal Information Institute (CanLII), Canada
 - Leon van der Torre, University of Luxembourg, Luxembourg
 - Tom Van Engers, University of Amsterdam, Netherlands
 - Jolien Ubacht, TU Delft, Netherlands
-- Marc van Opijnen, KOOP, Netherlands
+- Marc van Opijnen, Publications Office of the Netherlands (UBR|KOOP), Netherlands
 - Bart Verheij, University of Groningen, Netherlands
-- Serena Villata, CNRS - Laboratoire d'Informatique, Signaux et Systèmes de Sophia-Antipolis, France
+- Serena Villata, CNRS - I3S Sophia-Antipolis, France
 - Fabio Vitali, University of Bologna, Italy
 - Vern Walker, Hofstra University, United States
 - Yueh-Hsuan Weng, Tohoku University, Japan
