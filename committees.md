@@ -59,67 +59,78 @@ permalink: /committees/
 
 (Still updated)
 
-- Michał Araszkiewicz, Jagiellonian University
-- Kevin Ashley, University of Pittsburgh
-- Katie Atkinson, University of Liverpool
-- Trevor Bench-Capon, University of Liverpool
-- Karim Benyekhlef, Université de Montréal
-- Alexander Boer, KPMG
-- Georg Borges, Universität des Saarlandes
-- Karl Branting, The MITRE Corporation
-- Ilaria Canavotto, University of Maryland
-- Pompeu Casanovas, UAB
-- Marcello Ceci, SnT - University of Luxembourg
-- Giuseppe Contissa, University of Bologna
-- Claudia d'Amato, University of Bari
-- Massimo Durante, University of Turin
-- Arthur Dyevre, Katholieke Universiteit Leuven
-- Jenny Eriksson Lundström, Uppsala University
-- Nicoletta Fornara, Università della Svizzera italiana
-- Enrico Francesconi, IGSG-CNR
-- Aldo Gangemi, Università di Bologna, CNR-ISTC
-- Marco Giacalone, University of Naples Federico II
-- Guido Governatori, Independent researcher
-- Cristine Griffo, Free University of Bozen-Bolzano
-- Davide Grossi, University of Groningen
-- Jakub Harašta, Masaryk University
-- Mustafa Hashmi, Data 61 , CSIRO
-- John Horty, University of Maryland 
-- Joris Hulstijn, University of Luxembourg
-- John Joergensen, Rutgers University
-- Jeroen Keppens, King's College London
-- Francesca Lagioia, University of Bologna
-- Tomer Libal, American University of Paris
-- Réka Markovich, University of Luxembourg
-- Denis Merigoux, INRIA
-- Paulo Novais, University of Minho
-- Gordon Pace, University of Malta
-- Julian Padget, University of Bath
-- Monica Palmirani, CIRSFID
-- Radim Polčák, Masaryk University
-- Henry Prakken, University of Utrecht, University of Groningen
-- Paulo Quaresma, Universidade de Evora
-- Antoni Roig, Autonomous University of Barcelona
-- Antonino Rotolo, University of Bologna
-- Cristiana Santos, Utrecht University
+- Tommaso Agnoloni, CNR-IGSG, Italy
+- Francisco Andrade, University of Minho, Portugal
+- Michal Araszkiewicz, Jagiellonian University, Poland
+- Kevin Ashley, University of Pittsburgh, United States
+- Katie Atkinson, University of Liverpool, United Kingdom
+- Trevor Bench-Capon, University of Liverpool, United Kingdom
+- Karim Benyekhlef, Université de Montréal, Canada
+- Floris Bex, Utrecht University, Netherlands
+- Alexander Boer, KPMG, Netherlands
+- Georg Borges, Universität des Saarlandes, Germany
+- Karl Branting, MITRE, United States
+- Pompeu Casanovas, UAB, Spain
+- Ilaria Canavotto, Maryland University, United States
+- Marcello Ceci, University of Luxembourg, Luxembourg
+- Giuseppe Contissa, University of Bologna, Italy
+- Claudia d'Amato, University of Bari, Italy
+- Luigi Di Caro, University of Torino, Italy
+- Arthur Dyevre, KU Leuven, Belgium
+- Massimo Durante, University of Torino, Italy
+- Jenny Eriksson Lundström, Uppsala University, Sweden
+- Nicoletta Fornara, Università della Svizzera Italiana, Svizzera
+- Enrico Francesconi, CNR-IGSG, Italy
+- Aldo Gangemi, University of Bologna, CNR-ISTC, Italy
+- Marco Giacalone, University of Naples Federico II, Italy
+- Guido Governatori, Independent researcher, Australia
+- Cristine Griffo, Free University of Bozen-Bolzano, Italy
+- Davide Grossi, University of Groningen, Netherlands
+- Jakub Harasta, Masaryk University, Czechia
+- Mustafa Hashmi, Data 61 , CSIRO, Australia
+- Jeff Horty, University of Maryland, United States
+- Joris Hulstijn, University of Luxembourg, Luxembourg
+- John Joergensen, Rutgers University, United States
+- Jeroen Keppens, King's College London, United Kingdom
+- Francesca Lagioia, University of Bologna, Italy
+- Tomer Libal, American University of Paris, France
+- Reka Markovich, University of Luxembourg, Luxembourg
+- Florian Mattes, TU Munich, Germany
+- Thorne Mccarty, Rutgers University, United States
+- Denis Merigoux, INRIA, France
+- Paulo Novais, University of Minho, Portugal
+- Gordon Pace, University of Malta, Malta
+- Ugo Pagallo, Dept. of Law, Univ. of Turin, Italy
+- Julian Padget, University of Bath, United Kingdom
+- Monica Palmirani, CIRSFID, Italy
+- Marta Poblet, RMIT University, Australia
+- Radim Polcak, Masaryk University, Czechia
+- Henry Prakken, Utrecht University, Netherlands
+- Paulo Quaresma, Universidade de Evora, Portugal
+- Antoni Roig, Autonomous University of Barcelona, Spain
+- Antonino Rotolo, University of Bologna, Italy
+- Cristiana Santos, Utrecht University, Netherlands
 - Ken Satoh, National Institute of Informatics and Sokendai, Japan
-- Jaromir Savelka, Carnegie Mellon University
-- Clara Smith, UNLP, and UCALP
-- Christoph Sorge, Saarland University
-- Sarah Sutherland, Parallax Information Consulting
-- Jolien Ubacht, Delft University of Technology
-- Leon van der Torre, University of Luxembourg
-- Tom Van Engers, University of Amsterdam
-- Marc van Opijnen, KOOP
-- Bart Verheij, University of Groningen
-- Serena Villata, CNRS
-- Vern Walker, Hofstra University
-- Yueh-Hsuan Weng, Tohoku University
-- Hannes Westermann, University of Montreal
-- Adam Wyner, Swansea University
-- Minghui Xiong, Zhejiang University
-- John Zeleznikow, Victoria University
-- Tomasz Zurek, T.M.C. Asser Institute, University of Amsterdam
+- Jaromir Savelka, Carnegie Mellon University, United States
+- Erich Schweighofer, University of Vienna, Austria
+- Clara Smith, UNLP, UCALP, Argentina
+- Christoph Sorge, Saarland University, Germany
+- Sarah Sutherland, Canadian Legal Information Institute, Canada
+- Leon van der Torre, University of Luxembourg, Luxembourg
+- Tom Van Engers, University of Amsterdam, Netherlands
+- Jolien Ubacht, TU Delft, Netherlands
+- Marc van Opijnen, KOOP, Netherlands
+- Bart Verheij, University of Groningen, Netherlands
+- Serena Villata, CNRS - Laboratoire d'Informatique, Signaux et Systèmes de Sophia-Antipolis, France
+- Fabio Vitali, University of Bologna, Italy
+- Vern Walker, Hofstra University, United States
+- Yueh-Hsuan Weng, Tohoku University, Japan
+- Hannes Westermann, Université de Montréal, Canada
+- Radboud Winkels, University of Amsterdam, Netherlands
+- Adam Wyner, Swansea University, United Kingdom
+- Minghui Xiong, Zhejiang University, China
+- John Zeleznikow, Victoria University, Australia
+- Tomasz Zurek, Asser Institute, University of Amsterdam, Netherlands
 - ...
 
 ## Doctoral Consortium Chairs 
