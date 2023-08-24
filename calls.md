@@ -80,7 +80,7 @@ Topics include, but are not limited to:
  
 ### Submission and publication
 
-The deadline for paper submission is **September 8th, 2023**, all over the earth. Abstract submission (September 1st) is recommended. All submissions should be formatted using the styles and guidelines in the IOS Press Instructions for Authors ([https://www.iospress.com/book-article-instructions]) and prepared for single-blind peer review. Papers are to be submitted in PDF format through Easychair ([https://easychair.org/conferences/?conf=jurix2023]).
+The deadline for paper submission is **September 8th, 2023**, all over the earth. Abstract submission (September 1st) is recommended. All submissions should be formatted using the styles and guidelines in the [IOS Press Instructions for Authors](https://www.iospress.com/book-article-instructions) and prepared for single-blind peer review. Papers are to be submitted in PDF format through [Easychair] (https://easychair.org/conferences/?conf=jurix2023).
 
 There are three categories of papers: long, short, and demo. Please indicate a category when you submit your paper.
 - **Long papers**: reports of well-developed and original research. An accepted long paper scores well in terms of relevance, originality, technical quality, significance, literature review, presentation, reviewer’s confidence, and overall evaluation. These should not exceed 10 pages (including references). A paper which is not accepted as a long paper may be recommended by reviewers as a short paper.
