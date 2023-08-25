@@ -23,7 +23,10 @@ This year, JURIX conference on Legal Knowledge and Information Systems will be h
 
 The proceedings of the conferences will be published in the Frontiers of Artificial Intelligence and Applications series of IOS Press. JURIX follows the Golden Standard and provides one of the best dissemination platforms in AI & law. 
 
+Please note that presenters of papers accepted to the main conference are expected to be on-site to give their presentations and to interact with the audience. An online streaming option will be set-up for remote observers. Workshops may however run hybrid, at the discretion of their organizers (for further information, see their websites).
+
 ## About the Organizer
+
 Maastricht University (UM) is the most international university in the Netherlands and, with nearly 22,000 students and 4,400 employees, is still growing. The university distinguishes itself with its innovative education model, international character and multidisciplinary approach to research and education. Today, it is considered one of the best young universities in the world. 
 
 The local organizer of JURIX 2023 – [Maastricht Law and Tech Lab ](https://www.maastrichtuniversity.nl/about-um/faculties/law/research/law-and-tech-lab)– fosters a community of legal researchers and computer scientists who work collaboratively to integrate law and computer science methods.
