@@ -8,8 +8,8 @@ permalink: /calls/
 
 ## Important dates 
 
-| ------------------------------------------------------------ | ---------------------------- |
 | Submission of abstract (recommended)                         | ~~1 September 2023~~ 8 September 2023 |
+| ------------------------------------------------------------ | ---------------------------- |
 | **Submission of long, short and demo papers**                | ~~8 September 2023~~ **17 September 2023**    |
 | **Submission of proposals for workshops and tutorials**      | **8 September 2023**         |
 | Information about acceptance                                 | 20 October 2023              |
