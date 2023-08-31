@@ -8,7 +8,7 @@ permalink: /calls/
 
 ## Important dates 
 
-|                                                              |                              |
+| Event                                                        | Date                         |
 | ------------------------------------------------------------ | ---------------------------- |
 | Submission of abstract (recommended)                         | ~~1 September 2023~~ 8 September 2023 |
 | **Submission of long, short and demo papers**                | ~~8 September 2023~~ **17 September 2023**    |
@@ -19,10 +19,9 @@ permalink: /calls/
 | Programme with workshops                                     | 14 November 2023             |
 | Deadline Early-Bird Registration                             | 30 November 2023             |
 | End of registration; late and onside registrations subject to available places and additional fees | 10 December 2023             |
-| Workshops and tutorials                                      | 18 December 2023 (Monday)    |
-| Doctoral Consortium                                          | 18 December 2023 (Monday)    |
-| Conference                                                   | 19 December 2023 (Tuesday)   |
-| Conference                                                   | 20 December 2023 (Wednesday) |
+| Workshops, Tutorials, and Doctoral consortium                | 18 December 2023 (Monday)    |
+| Main Conference, first day                                   | 19 December 2023 (Tuesday)   |
+| Main Conference, second day                                  | 20 December 2023 (Wednesday) |
 
 <br/>
 
