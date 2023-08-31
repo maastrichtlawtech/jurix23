@@ -8,12 +8,12 @@ permalink: /calls/
 
 ## Important dates 
 
-| Submission of abstract (recommended)                         | 1 September 2023             |
 | ------------------------------------------------------------ | ---------------------------- |
-| **Submission of long, short and demo papers**                | **8 September 2023**         |
+| Submission of abstract (recommended)                         | ~~1 September 2023~~ 8 September 2023 |
+| **Submission of long, short and demo papers**                | ~~8 September 2023~~ **17 September 2023**    |
 | **Submission of proposals for workshops and tutorials**      | **8 September 2023**         |
-| Information about acceptance                                 | 13 October 2023              |
-| Upload of camera-ready papers                                | 20 October 2023              |
+| Information about acceptance                                 | 20 October 2023              |
+| Upload of camera-ready papers                                | 27 October 2023              |
 | Programme                                                    | 31 October 2023              |
 | Programme with workshops                                     | 14 November 2023             |
 | Deadline Early-Bird Registration                             | 30 November 2023             |
@@ -80,7 +80,7 @@ Topics include, but are not limited to:
  
 ### Submission and publication
 
-The deadline for paper submission is **September 8th, 2023**, all over the earth. Abstract submission (September 1st) is recommended. All submissions should be formatted using the styles and guidelines in the IOS Press Instructions for Authors (https://www.iospress.com/book-article-instructions) and prepared for single-blind peer review. Papers are to be submitted in PDF format through Easychair (https://easychair.org/conferences/?conf=jurix2023).
+The deadline for paper submission is ~~September 8th, 2023~~ **September 17th, 2023**, all over the earth. Abstract submission (September 1st) is recommended. All submissions should be formatted using the styles and guidelines in the IOS Press Instructions for Authors (https://www.iospress.com/book-article-instructions) and prepared for single-blind peer review. Papers are to be submitted in PDF format through Easychair (https://easychair.org/conferences/?conf=jurix2023).
 
 There are three categories of papers: long, short, and demo. Please indicate a category when you submit your paper.
 - **Long papers**: reports of well-developed and original research. An accepted long paper scores well in terms of relevance, originality, technical quality, significance, literature review, presentation, reviewer’s confidence, and overall evaluation. These should not exceed 10 pages (including references). A paper which is not accepted as a long paper may be recommended by reviewers as a short paper.
