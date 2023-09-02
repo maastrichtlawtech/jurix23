@@ -34,6 +34,4 @@ Iris van Rooij is a Professor of Computational Cognitive Science at the School o
 
 Further information: <https://irisvanrooijcogsci.com/>
 
---------
-
 
