@@ -4,6 +4,10 @@ title: Committees
 permalink: /committees/
 ---
 
+-------
+
+<br/>
+
 ## Program Chair 
 
 <table>
@@ -23,6 +27,10 @@ permalink: /committees/
   </td>
 </tr>
 </table>
+
+-------
+
+<br/>
 
 ## Organizing Chairs 
 
@@ -54,6 +62,10 @@ permalink: /committees/
   <td colspan="4" style="border-color: transparent; padding: 0px 30px 0px 0px;">contact: <a href="mailto:law-techlab@maastrichtuniversity.nl">law-techlab@maastrichtuniversity.nl</a></td>
 </tr>
 </table>
+
+-------
+
+<br/>
 
 ## Program Committee 
 
