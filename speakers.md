@@ -6,7 +6,7 @@ permalink: /speakers/
 
 --------
 
-<img src="assets/jaaphage.png" alt="First keynote speaker: Jaap Hage, Maastricht University" />
+<img src="https://jurix23.maastrichtlawtech.eu/assets/jaaphage.png" alt="First keynote speaker: Jaap Hage, Maastricht University" />
 
 **Jaap Hage**, *Maastricht University*
 
@@ -14,7 +14,7 @@ Jaap Hage is an emeritus professor of Legal Theory at Maastricht University. His
 
 --------
 
-<img src="assets/piekvossen.png" alt="Second keynote speaker: Piek Vossen, VU" />
+<img src="https://jurix23.maastrichtlawtech.eu/assets/piekvossen.png" alt="Second keynote speaker: Piek Vossen, VU" />
 
 **Piek Vossen**, *VU*
 
@@ -22,7 +22,7 @@ After 10 years in industry, Piek Vossen became full professor (2009) and establi
 
 --------
 
-<img src="assets/irisvanrooij.png" alt="Third keynote speaker: Iris van Rooij, Radboud University" />
+<img src="https://jurix23.maastrichtlawtech.eu/assets/irisvanrooij.png" alt="Third keynote speaker: Iris van Rooij, Radboud University" />
 
 **Iris van Rooij**, *Radboud University* 
 
