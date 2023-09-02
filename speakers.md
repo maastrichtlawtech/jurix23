@@ -8,7 +8,7 @@ permalink: /speakers/
 
 <br/>
 
-<img src="https://jurix23.maastrichtlawtech.eu/assets/jaaphage.png" alt="First keynote speaker: Jaap Hage, Maastricht University" />
+<img src="https://jurix23.maastrichtlawtech.eu/assets/jaaphage.png" style="max-width: 350px;" alt="First keynote speaker: Jaap Hage, Maastricht University" />
 
 **Jaap Hage**, *Maastricht University*
 
