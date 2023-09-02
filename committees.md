@@ -6,8 +6,6 @@ permalink: /committees/
 
 -------
 
-<br/>
-
 ## Program Chair 
 
 <table>
@@ -29,8 +27,6 @@ permalink: /committees/
 </table>
 
 -------
-
-<br/>
 
 ## Organizing Chairs 
 
@@ -64,8 +60,6 @@ permalink: /committees/
 </table>
 
 -------
-
-<br/>
 
 ## Program Committee 
 
