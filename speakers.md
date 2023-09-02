@@ -30,13 +30,16 @@ Further information: <https://vossen.info/>
 
 --------
 
-<img src="https://jurix23.maastrichtlawtech.eu/assets/irisvanrooij.png" alt="Third keynote speaker: Iris van Rooij, Radboud University" />
-
 <br/>
+
+<img src="https://jurix23.maastrichtlawtech.eu/assets/irisvanrooij.png" alt="Third keynote speaker: Iris van Rooij, Radboud University" />
 
 **Iris van Rooij**, *Radboud University* 
 
 Iris van Rooij is a Professor of Computational Cognitive Science at the School of Artificial Intelligence in the Faculty of Social Sciences at Radboud University, the Netherlands and Principal Investigator at the Donders Institute for Brain, Cognition and Behaviour. She is also a Guest Professor at the Department of Linguistics, Cognitive Science, and Semiotics, and the Interacting Minds Centre at Aarhus University, Denmark. Her research interests lie at the interface of psychology, philosophy and theoretical computer science, with a focus on the theoretical foundations of computational explanations of cognition.
 
 Further information: <https://irisvanrooijcogsci.com/>
+
+--------
+
 
