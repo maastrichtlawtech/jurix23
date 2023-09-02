@@ -4,9 +4,7 @@ title: Speakers
 permalink: /speakers/
 ---
 
---------
-
-<br/>
+### Monday, 18th December 2023
 
 <img src="https://jurix23.maastrichtlawtech.eu/assets/jaaphage.png" style="max-width: 300px;" alt="First keynote speaker: Jaap Hage, Maastricht University" />
 
@@ -16,9 +14,7 @@ Jaap Hage is an emeritus professor of Legal Theory at Maastricht University. His
 
 Further information: <https://www.jaaphage.nl/>
 
---------
-
-<br/>
+### Tuesday, 19th December 2023
 
 <img src="https://jurix23.maastrichtlawtech.eu/assets/piekvossen.png" alt="Second keynote speaker: Piek Vossen, VU" />
 
@@ -28,9 +24,7 @@ After 10 years in industry, Piek Vossen became full professor (2009) and establi
 
 Further information: <https://vossen.info/>
 
---------
-
-<br/>
+### Wednesday, 20th December
 
 <img src="https://jurix23.maastrichtlawtech.eu/assets/irisvanrooij.png" alt="Third keynote speaker: Iris van Rooij, Radboud University" />
 
