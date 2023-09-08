@@ -6,7 +6,7 @@ permalink: /speakers/
 
 ### Monday, 18th December 2023
 
-<img src="https://jurix23.maastrichtlawtech.eu/assets/jaaphage.png" style="max-width: 300px;" alt="First keynote speaker: Jaap Hage, Maastricht University" />
+<img src="https://jurix23.maastrichtlawtech.eu/assets/jaaphage.png" style="max-width: 275px;" alt="First keynote speaker: Jaap Hage, Maastricht University" />
 
 **Jaap Hage**, *Maastricht University*
 
