@@ -57,8 +57,6 @@ permalink: /committees/
 
 ## Program Committee 
 
-(Still updated)
-
 - Tommaso Agnoloni, IGSG-CNR, Italy
 - Francisco Andrade, University of Minho, Portugal
 - Michal Araszkiewicz, Jagiellonian University, Poland
@@ -112,14 +110,15 @@ permalink: /committees/
 - Radim Polcak, Masaryk University, Czech Republic
 - Henry Prakken, Utrecht University, Netherlands
 - Paulo Quaresma, Universidade de Évora, Portugal
+- Víctor Rodríguez Doncel, Universidad Politécnica de Madrid, Spain
 - Antoni Roig, Universitat Autònoma de Barcelona (UAB), Spain
 - Antonino Rotolo, University of Bologna, Italy
 - Cristiana Santos, Utrecht University, Netherlands
+- Giovanni Sartor, European University Institute (EUI), University of Bologna, Italy
 - Ken Satoh, National Institute of Informatics and Sokendai, Japan
 - Jaromir Savelka, Carnegie Mellon University, United States
 - Burkhard Schafer, University of Edinburgh, United Kingdom
 - Erich Schweighofer, University of Vienna, Austria
-- Giovanni Sileno, University of Amsterdam, Amsterdam
 - Barry Smith, University of Buffalo, United States
 - Clara Smith, UNLP, UCALP, Argentina
 - Christoph Sorge, Saarland University, Germany
@@ -140,7 +139,6 @@ permalink: /committees/
 - Minghui Xiong, Zhejiang University, China
 - John Zeleznikow, Victoria University, Australia
 - Tomasz Zurek, Asser Institute, University of Amsterdam, Netherlands
-- ...
 
 ## Doctoral Consortium Chairs 
 
