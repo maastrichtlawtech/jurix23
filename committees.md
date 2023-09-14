@@ -68,6 +68,7 @@ permalink: /committees/
 - Karim Benyekhlef, Université de Montréal, Canada
 - Floris Bex, Utrecht University, Netherlands
 - Alexander Boer, KPMG, Netherlands
+- Michael Bommarito, Bommarito Consulting, LLC, United States
 - Georg Borges, Saarlandes University, Germany
 - Karl Branting, MITRE, United States
 - Pompeu Casanovas, Universitat Autònoma de Barcelona (UAB), Spain
@@ -95,15 +96,18 @@ permalink: /committees/
 - Jeroen Keppens, King's College London, United Kingdom
 - Francesca Lagioia, University of Bologna, Italy
 - Tomer Libal, American University of Paris, France
+- Emiliano Lorini, Université Paul Sabatier, IRIT, France
 - Reka Markovich, University of Luxembourg, Luxembourg
 - Florian Mattes, TU Munich, Germany
 - Thorne McCarty, Rutgers University, United States
 - Denis Merigoux, INRIA, France
+- Masha Medvedeva, Leiden University, Netherlands
 - Paulo Novais, University of Minho, Portugal
 - Gordon Pace, University of Malta, Malta
-- Ugo Pagallo, University of Torino, Italy
 - Julian Padget, University of Bath, United Kingdom
+- Ugo Pagallo, University of Torino, Italy
 - Monica Palmirani, University of Bologna, Italy
+- Matteo Pascucci, Slovak Academy of Sciences, Central European University, Slovakia
 - Marta Poblet, RMIT University, Australia
 - Radim Polcak, Masaryk University, Czech Republic
 - Henry Prakken, Utrecht University, Netherlands
@@ -113,18 +117,22 @@ permalink: /committees/
 - Cristiana Santos, Utrecht University, Netherlands
 - Ken Satoh, National Institute of Informatics and Sokendai, Japan
 - Jaromir Savelka, Carnegie Mellon University, United States
+- Burkhard Schafer, University of Edinburgh, United Kingdom
 - Erich Schweighofer, University of Vienna, Austria
+- Giovanni Sileno, University of Amsterdam, Amsterdam
+- Barry Smith, University of Buffalo, United States
 - Clara Smith, UNLP, UCALP, Argentina
 - Christoph Sorge, Saarland University, Germany
 - Sarah Sutherland, Canadian Legal Information Institute (CanLII), Canada
-- Leon van der Torre, University of Luxembourg, Luxembourg
-- Tom Van Engers, University of Amsterdam, Netherlands
 - Jolien Ubacht, TU Delft, Netherlands
+- Leon van der Torre, University of Luxembourg, Luxembourg
+- Tom van Engers, University of Amsterdam, Netherlands
 - Marc van Opijnen, Publications Office of the Netherlands (KOOP), Netherlands
 - Bart Verheij, University of Groningen, Netherlands
 - Serena Villata, CNRS - I3S Sophia-Antipolis, France
 - Fabio Vitali, University of Bologna, Italy
 - Vern Walker, Hofstra University, United States
+- Bernhard Waltl, BMW group, Germany
 - Yueh-Hsuan Weng, Tohoku University, Japan
 - Hannes Westermann, Université de Montréal, Canada
 - Radboud Winkels, University of Amsterdam, Netherlands
