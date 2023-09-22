@@ -8,8 +8,6 @@ permalink: /workshops/
 
 [still to be updated...]
 
-<br/>
-
 ## ALP 2023: Workshop on AI, Law and Philosophy
 
 These are exciting times for the field of AI & Law: at the same time we read that an AI system passes the bar exam, and also that lawyers submit computer-generated briefs to court---which turn out to be filled with legal bogus. In this workshop, we aim to take the time for philosophical reflection of where we stand and what can be expected. The workshop brings together enthusiastic young researchers and experienced experts interested in the interface between AI, law and philosophy. In this way, we aim to connect to the "computational legal theory" tradition in the field of AI and Law. 
