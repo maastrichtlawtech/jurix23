@@ -39,9 +39,3 @@ To be eligible for the Consortium, a candidate must be a current doctoral studen
 - **Organizer**: Monica Palmirani (Research Institute for Human-Centered Artificial Intelligence, ALMA-AI, University of Bologna)
 
 
-
-----
-
-
-
-If you would like to propose a Workshop or a Tutorial, please look at the [Call for Workshops and Tutorials](calls.md#call-for-workshops-and-tutorials).
