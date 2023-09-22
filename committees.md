@@ -140,9 +140,4 @@ permalink: /committees/
 - John Zeleznikow, Victoria University, Australia
 - Tomasz Zurek, Asser Institute, University of Amsterdam, Netherlands
 
-## Doctoral Consortium Chairs 
-
-- Monica Palmirani
-- Michal Araszkiewicz
-
 
