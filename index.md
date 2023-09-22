@@ -38,7 +38,7 @@ Bouillonstraat 1–3<br>
 
 **Organisational matters**<br>
 Law Events Office<br>
-[Maud Houben-Nijssen](mailto:maud.houben-nijssen@maastrichtuniversity.nl)
+[Elke Hundhausen](mailto:elke.hundhausen@maastrichtuniversity.nl)
 
 **Content-related matters**<br>
 [The Maastricht Law and Tech lab](mailto:law-techlab@maastrichtuniversity.nl)
