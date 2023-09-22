@@ -6,11 +6,13 @@ permalink: /workshops/
 
 ## ALP 2023: Workshop on AI, Law and Philosophy 
 
-These are exciting times for the field of AI & Law: at the same time we read that an AI system passes the bar exam, and also that lawyers submit computer-generated briefs to court---which turn out to be filled with legal bogus. In this workshop, we aim to take the time for philosophical reflection of where we stand and what can be expected. The workshop brings together enthusiastic young researchers and experienced experts interested in the interface between AI, law and philosophy. In this way, we aim to connect to the "computational legal theory" tradition in the field of AI and Law.
+These are exciting times for the field of AI & Law: at the same time we read that an AI system passes the bar exam, and also that lawyers submit computer-generated briefs to court---which turn out to be filled with legal bogus. In this workshop, we aim to take the time for philosophical reflection of where we stand and what can be expected. The workshop brings together enthusiastic young researchers and experienced experts interested in the interface between AI, law and philosophy. In this way, we aim to connect to the "computational legal theory" tradition in the field of AI and Law. 
 
-- **Organizers**: Jaap Hage (Maastricht University), Ludi van Leeuwen (University of Groningen (l.s.van.leeuwen@rug.nl), Bart Verheij, University of Groningen (bart.verheij@rug.nl), Antonia Waltermann, Maastricht University (antonia.waltermann@maastrichtuniversity.nl)
-- **Website**: http://brtvrh.nl/alp2023
-- **Submission**: https://easychair.org/conferences/?conf=alp2023
+Possible questions to be addressed: Can large language models solve legal cases and explain their reasoning? Is it enough when AI systems outperform humans in doing a legal task? And, in this connection, what do we mean by ‘outperform’? What is legal interpretation, computationally? What is legal justification, computationally? What is legal fact finding, computationally? What is law, computationally? How do rules and cases (and principles) interact, computationally? Can AI systems do proper law by data collection alone, or is a human in the loop necessary? Should we admit AI systems in official legal functions? Why (not)? What are the differences between natural and artificial intelligence that justify a different role in legal practice? Are AI systems inherently more dangerous than existing legal mechanisms in society (corporations, governmental organisations, legislative bodies)? 
+
+- **Organizers**: Jaap Hage (Maastricht University), Ludi van Leeuwen (University of Groningen), Bart Verheij (University of Groningen), Antonia Waltermann (Maastricht University)
+- **More information**: [http://brtvrh.nl/alp2023](http://brtvrh.nl/alp2023)
+- **Submission**: [https://easychair.org/conferences/?conf=alp2023](https://easychair.org/conferences/?conf=alp2023)
 
 ## AI4Legs-II: Second Workshop on AI for Legislation
 
@@ -18,8 +20,8 @@ Can the Law be written by GPT-4? Can the members of the parliament use ChatGPT f
 
 This workshop would like to discuss these challenging questions with interdisciplinary instruments coming from philosophy of law, Constitutional law, legal informatics including AI & Law, computational linguistics, computer science, HCI and Legal design. We intend also to discuss the state of the art of the most advanced applications of AI in support of the better regulation, law-making system, aims to find answers to these questions using.
 
-- **Organizer**: Monica Palmirani, Research Institute for Human-Centered Artificial Intelligence, ALMA-AI, University of Bologna 
-- **Website**: https://site.unibo.it/hypermodelex/en/agenda/ai4legs-II-2023
+- **Organizer**: Monica Palmirani (Research Institute for Human-Centered Artificial Intelligence, ALMA-AI, University of Bologna)
+- **Website**: [https://site.unibo.it/hypermodelex/en/agenda/ai4legs-II-2023](https://site.unibo.it/hypermodelex/en/agenda/ai4legs-II-2023)
 
 ## Doctoral Consortium
 
@@ -30,7 +32,7 @@ The Jurix 2023 Doctoral Consortium aims at promoting the exchange of ideas from 
 - discuss concerns about research, supervision, the job market, and other career-related issues.
 To be eligible for the Consortium, a candidate must be a current doctoral student within a recognised university. Ideally, the candidate should have at least 12 months of work remaining before expected completion. The participants of the Doctoral Consortium are encouraged to register for and attend the main conference. The PhD student should be the sole author of the submission.
 
-- **Organizer**: Monica Palmirani, Research Institute for Human-Centered Artificial Intelligence, ALMA-AI, University of Bologna 
+- **Organizer**: Monica Palmirani (Research Institute for Human-Centered Artificial Intelligence, ALMA-AI, University of Bologna)
 
 ----
 
