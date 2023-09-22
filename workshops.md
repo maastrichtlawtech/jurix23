@@ -8,7 +8,7 @@ permalink: /workshops/
 
 [to be updated...]
 
-## ALP 2023, Workshop on AI, Law and Philosophy
+## ALP 2023: Workshop on AI, Law and Philosophy
 
 These are exciting times for the field of AI & Law: at the same time we read that an AI system passes the bar exam, and also that lawyers submit computer-generated briefs to court---which turn out to be filled with legal bogus. In this workshop, we aim to take the time for philosophical reflection of where we stand and what can be expected. The workshop brings together enthusiastic young researchers and experienced experts interested in the interface between AI, law and philosophy. In this way, we aim to connect to the "computational legal theory" tradition in the field of AI and Law. 
 
@@ -18,7 +18,7 @@ Possible questions to be addressed: Can large language models solve legal cases 
 - **More information**: [http://brtvrh.nl/alp2023](http://brtvrh.nl/alp2023)
 - **Submission**: [https://easychair.org/conferences/?conf=alp2023](https://easychair.org/conferences/?conf=alp2023)
 
-## AI4Legs-II, 2nd Workshop on AI for Legislation
+## AI4Legs-II: 2nd Workshop on AI for Legislation
 
 Can the Law be written by GPT-4? Can the members of the parliament use ChatGPT for improving their knowledge of the society needs? Can the Law be converted into programming code using AI/ML and logic formulae without losing legal theory principles, legal linguistic expressivity, and Constitutional principles? Can the digital format of Law be equally valid and considered a legitimate Legal Source, and under which conditions? Can a whole Legal System –including its diachronic dimension – be managed in a digital manner by using knowledge Graphs, Semantic Web techniques, Legal ontologies, Logic theory? Can a such translation be made automatically executable using Smart Contracts and immediately enforceable? How to render the “Law as Code” to the common citizen in a simple, yet transparent and accountable manner? Can an explicit normative statement be expressed natively in code or in non-linguistic signs (e.g., icons)? Which principles are necessary in order to not compress the Rule of Law and Democratic principles? What new legal theory is needed for a deep digital transformation of the legislative process that produces a digital format of Law with an innovative generative and constitutive modality instead of converting text (logos) into code? How to produce Law in non-textual norms while preserving normativity? How to improve the legislative process using AI/ML for better regulation?
 
