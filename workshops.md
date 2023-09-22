@@ -30,7 +30,7 @@ The Jurix 2023 Doctoral Consortium aims at promoting the exchange of ideas from 
 - discuss concerns about research, supervision, the job market, and other career-related issues.
 To be eligible for the Consortium, a candidate must be a current doctoral student within a recognised university. Ideally, the candidate should have at least 12 months of work remaining before expected completion. The participants of the Doctoral Consortium are encouraged to register for and attend the main conference. The PhD student should be the sole author of the submission.
 
-
+- **Organizer**: Monica Palmirani, Research Institute for Human-Centered Artificial Intelligence, ALMA-AI, University of Bologna 
 
 ----
 
