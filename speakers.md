@@ -4,6 +4,8 @@ title: Speakers
 permalink: /speakers/
 ---
 
+[Monday 18th Dec](#monday-18th-december-2023) :: [Tuesday 19th Dec](#tuesday-19th-december-2023) :: [Wednesday 20th Dec](#wednesday-20th-december-2023)
+
 ### Monday, 18th December 2023
 
 <img src="https://jurix23.maastrichtlawtech.eu/assets/jaaphage.png" style="max-width: 275px;" alt="First keynote speaker: Jaap Hage, Maastricht University" />
@@ -24,7 +26,7 @@ After 10 years in industry, Piek Vossen became full professor (2009) and establi
 
 Further information: <https://vossen.info/>
 
-### Wednesday, 20th December
+### Wednesday, 20th December 2023
 
 <img src="https://jurix23.maastrichtlawtech.eu/assets/irisvanrooij.png" alt="Third keynote speaker: Iris van Rooij, Radboud University" />
 
