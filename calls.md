@@ -4,7 +4,7 @@ title: Calls
 permalink: /calls/
 ---
 
-[Call for Papers](#call-for-papers) | [Call for Workshops and Tutorials](#call-for-workshops-and-tutorials)
+[Call for Papers](#call-for-papers) :: [Call for Workshops and Tutorials](#call-for-workshops-and-tutorials)
 
 ## Important dates 
 
