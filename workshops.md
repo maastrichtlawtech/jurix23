@@ -4,9 +4,9 @@ title: Workshops
 permalink: /workshops/
 ---
 
-[ALP2023](#alp-2023-workshop-on-ai-law-and-philosophy) :: [AI4Legs-II](#ai4legs-ii-2nd-workshop-on-ai-for-legislation) :: [Doctoral consortium](#jurix-2023-doctoral-consortium) 
+[still being updated...]
 
-[still to be updated...]
+[ALP2023](#alp-2023-workshop-on-ai-law-and-philosophy) :: [AI4Legs-II](#ai4legs-ii-2nd-workshop-on-ai-for-legislation) :: [Doctoral consortium](#jurix-2023-doctoral-consortium) 
 
 ## ALP 2023: Workshop on AI, Law and Philosophy
 
