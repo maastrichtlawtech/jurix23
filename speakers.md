@@ -8,7 +8,7 @@ permalink: /speakers/
 
 ### Monday, 18th December 2023
 
-<img src="https://jurix23.maastrichtlawtech.eu/assets/jaaphage.png" style="max-width: 275px; float:right;" alt="First keynote speaker: Jaap Hage, Maastricht University" />
+<img src="https://jurix23.maastrichtlawtech.eu/assets/jaaphage.png" style="max-width: 275px;" alt="First keynote speaker: Jaap Hage, Maastricht University" />
 
 **Jaap Hage**, *Maastricht University*
 
@@ -18,7 +18,7 @@ Further information: <https://www.jaaphage.nl/>
 
 ### Tuesday, 19th December 2023
 
-<img src="https://jurix23.maastrichtlawtech.eu/assets/piekvossen.png" style="float:right;" alt="Second keynote speaker: Piek Vossen, VU" />
+<img src="https://jurix23.maastrichtlawtech.eu/assets/piekvossen.png" alt="Second keynote speaker: Piek Vossen, VU" />
 
 **Piek Vossen**, *VU*
 
@@ -28,7 +28,7 @@ Further information: <https://vossen.info/>
 
 ### Wednesday, 20th December 2023
 
-<img src="https://jurix23.maastrichtlawtech.eu/assets/irisvanrooij.png" style="float:right;" alt="Third keynote speaker: Iris van Rooij, Radboud University" />
+<img src="https://jurix23.maastrichtlawtech.eu/assets/irisvanrooij.png" alt="Third keynote speaker: Iris van Rooij, Radboud University" />
 
 **Iris van Rooij**, *Radboud University* 
 
