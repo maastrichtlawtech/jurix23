@@ -18,6 +18,14 @@ We can recommend the following hotels during your stay in Maastricht for JURIX 2
 - [Hotel Monastère](https://www.hotelmonasteremaastricht.com/nl/?gclid=EAIaIQobChMIhb3dyqK9_AIVgvhRCh2K6AADEAAYASAAEgK3mvD_BwE) - 11 min walking distance from the faculty
 - [Hotel Crowne Plaza](https://centrumhotelmaastricht.nl/) - 12 min walking distance from the faculty
 
+LBG hotels offers you 12% discount on their Best Available Rate (excl. breakfast). Use the code: **MULAW** for rooms or **AMULAW** for apartments. Booking links:
+
+-   [Mabi Hotel](https://t.ly/j9XSa) – 12 min walking distance from the faculty
+-   [The Green Elephant Hostel](https://t.ly/XKI8C) – 19 min walking distance from the faculty
+-   [Townhouse Apartments](https://rb.gy/shopn) – 19 min walking distance from the faculty
+-   [Kaboom Hotel](https://t.ly/9vRBL) – 20 min walking distance from the faculty
+-   [Townhouse Hotel](https://t.ly/S3T_G) – 20 min walking distance from the faculty
+
 You will be forwarded to the website of the hotel, when you click on the name.
 
 ## Travelling to Maastricht 
