@@ -44,7 +44,7 @@ Law Events Office<br>
 [The Maastricht Law and Tech lab](mailto:law-techlab@maastrichtuniversity.nl)
 
 ## Registration
-The [registration](/registration) will be open from 1 October 2023. Note that early registration rates apply until 30 November 2023.
+**The [registration](/registration) has now opened. Note that early registration rates apply until 30 November 2023.**
 
 The proceedings will be published after the conference (see ['Proceedings'](/proceedings)). 
 
