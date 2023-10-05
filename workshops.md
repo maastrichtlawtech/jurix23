@@ -28,8 +28,7 @@ This workshop would like to discuss these challenging questions with interdiscip
 
 - **Organizer**: Monica Palmirani (Research Institute for Human-Centered Artificial Intelligence, ALMA-AI, University of Bologna)
 - **Website**: [https://site.unibo.it/hypermodelex/en/agenda/ai4legs-II-2023](https://site.unibo.it/hypermodelex/en/agenda/ai4legs-II-2023)
-
-<br/>
+- **Submission**: [https://easychair.org/conferences/?conf=ai4legsii](https://easychair.org/conferences/?conf=ai4legsii)
 
 ## JURIX 2023 Doctoral Consortium
 
@@ -41,4 +40,5 @@ The Jurix 2023 Doctoral Consortium aims at promoting the exchange of ideas from 
 
 To be eligible for the Consortium, a candidate must be a current doctoral student within a recognised university. Ideally, the candidate should have at least 12 months of work remaining before expected completion. The participants of the Doctoral Consortium are encouraged to register for and attend the main conference. The PhD student should be the sole author of the submission.
 
-- **Organizers**: Monica Palmirani (Research Institute for Human-Centered Artificial Intelligence, ALMA-AI, University of Bologna), Michał Araszkiewicz (Jagiellonian University)
+- **Organizers**: Monica Palmirani (Research Institute for Human-Centered Artificial Intelligence, ALMA-AI, University of Bologna)
+- **Submission**: [https://easychair.org/conferences/?conf=dcjurix2023](https://easychair.org/conferences/?conf=dcjurix2023)
