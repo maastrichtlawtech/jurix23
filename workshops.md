@@ -27,7 +27,7 @@ Can the Law be written by GPT-4? Can the members of the parliament use ChatGPT f
 This workshop would like to discuss these challenging questions with interdisciplinary instruments coming from philosophy of law, Constitutional law, legal informatics including AI & Law, computational linguistics, computer science, HCI and Legal design. We intend also to discuss the state of the art of the most advanced applications of AI in support of the better regulation, law-making system, aims to find answers to these questions using.
 
 - **Organizer**: Monica Palmirani (Research Institute for Human-Centered Artificial Intelligence, ALMA-AI, University of Bologna)
-- **Website**: [https://site.unibo.it/hypermodelex/en/agenda/ai4legs-II-2023](https://site.unibo.it/hypermodelex/en/agenda/ai4legs-II-2023)
+- **Website**: [https://site.unibo.it/hypermodelex/en/agenda/ai4legs-second-edition-2023-ai-for-legislation-1](https://site.unibo.it/hypermodelex/en/agenda/ai4legs-second-edition-2023-ai-for-legislation-1)
 - **Submission**: [https://easychair.org/conferences/?conf=ai4legsii](https://easychair.org/conferences/?conf=ai4legsii)
 
 ## JURIX 2023 Doctoral Consortium
