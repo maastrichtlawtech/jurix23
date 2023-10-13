@@ -30,7 +30,8 @@ and research infrastructure for AI for access to justice.
 - Discuss the ethical and legal implications of using AI in the legal system, particularly for
 tasks related to people who cannot afford full legal representation.
 - Develop proposals for how to hold AI models accountable for the public good.
-The workshop will consist of a mix of presentations, panel discussions, and breakout sessions. Participants will have the opportunity to share their own work and learn from the expertise of others.
+
+The workshop will be conducted in a hybrid form and will consist of a mix of presentations, panel discussions, and breakout sessions. Participants will have the opportunity to share their own work and learn from the expertise of others.
 
 - **Organizers**: Margaret Hagan (Stanford Legal Design Lab), Nora al-Haider (Stanford Legal Design Lab), Hannes Westermann (University of Montreal), Jaromir Savelka (Carnegie Mellon University), Quinten Steenhuis (Suffolk LIT Lab)
 
