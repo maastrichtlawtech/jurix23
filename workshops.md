@@ -6,7 +6,7 @@ permalink: /workshops/
 
 [still being updated...]
 
-[ALP2023](#alp-2023-workshop-on-ai-law-and-philosophy) :: [AI4Legs-II](#ai4legs-ii-2nd-workshop-on-ai-for-legislation) :: [Doctoral consortium](#jurix-2023-doctoral-consortium) 
+[ALP2023](#alp-2023-workshop-on-ai-law-and-philosophy) :: [AI & Access to Justice](#ai-and-access-to-justice) :: [AI4Legs-II](#ai4legs-ii-2nd-workshop-on-ai-for-legislation) :: [Doctoral consortium](#jurix-2023-doctoral-consortium) 
 
 ## ALP 2023: Workshop on AI, Law and Philosophy
 
@@ -17,6 +17,22 @@ Possible questions to be addressed: Can large language models solve legal cases 
 - **Organizers**: Jaap Hage (Maastricht University), Ludi van Leeuwen (University of Groningen), Bart Verheij (University of Groningen), Antonia Waltermann (Maastricht University)
 - **More information**: [http://brtvrh.nl/alp2023](http://brtvrh.nl/alp2023)
 - **Submission**: [https://easychair.org/conferences/?conf=alp2023](https://easychair.org/conferences/?conf=alp2023)
+
+<br/>
+
+## AI & Access to Justice
+
+This workshop will bring together lawyers, computer scientists, and social science researchers to discuss their findings and proposals around how AI might be used to improve access to justice, as well as how to hold AI models accountable for the public good. By the end of the workshop, participants will be able to:
+
+- Identify the key challenges and opportunities for using AI to improve access to justice.
+- Identify the key challenges and opportunities of building new data sets, benchmarks,
+and research infrastructure for AI for access to justice.
+- Discuss the ethical and legal implications of using AI in the legal system, particularly for
+tasks related to people who cannot afford full legal representation.
+- Develop proposals for how to hold AI models accountable for the public good.
+The workshop will consist of a mix of presentations, panel discussions, and breakout sessions. Participants will have the opportunity to share their own work and learn from the expertise of others.
+
+- **Organizers**: Margaret Hagan (Stanford Legal Design Lab), Nora al-Haider (Stanford Legal Design Lab), Hannes Westermann (University of Montreal), Jaromir Savelka (Carnegie Mellon University), Quinten Steenhuis (Suffolk LIT Lab)
 
 <br/>
 
