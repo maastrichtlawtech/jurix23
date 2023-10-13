@@ -46,6 +46,8 @@ This workshop would like to discuss these challenging questions with interdiscip
 - **Website**: [https://site.unibo.it/hypermodelex/en/agenda/ai4legs-second-edition-2023-ai-for-legislation-1](https://site.unibo.it/hypermodelex/en/agenda/ai4legs-second-edition-2023-ai-for-legislation-1)
 - **Submission**: [https://easychair.org/conferences/?conf=ai4legsii](https://easychair.org/conferences/?conf=ai4legsii)
 
+<br/>
+
 ## JURIX 2023 Doctoral Consortium
 
 The Jurix 2023 Doctoral Consortium aims at promoting the exchange of ideas from PhD researchers in the area of Artificial Intelligence and Law, and at providing them an opportunity to interact and receive feedback from leading scholars and experts in the field. Specifically, the Consortium seeks to provide opportunities for PhD students to:
