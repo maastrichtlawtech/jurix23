@@ -34,6 +34,7 @@ tasks related to people who cannot afford full legal representation.
 The workshop will be conducted in a hybrid form and will consist of a mix of presentations, panel discussions, and breakout sessions. Participants will have the opportunity to share their own work and learn from the expertise of others.
 
 - **Organizers**: Margaret Hagan (Stanford Legal Design Lab), Nora al-Haider (Stanford Legal Design Lab), Hannes Westermann (University of Montreal), Jaromir Savelka (Carnegie Mellon University), Quinten Steenhuis (Suffolk LIT Lab)
+- **More information**: [https://justiceinnovation.law.stanford.edu/jurix-workshop/](https://justiceinnovation.law.stanford.edu/jurix-workshop/)
 
 <br/>
 
