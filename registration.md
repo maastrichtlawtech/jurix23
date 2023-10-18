@@ -6,7 +6,7 @@ permalink: /registration/
 
 [PLEASE CLICK HERE TO REGISTER](https://www.aanmelder.nl/148703/subscribe?survey_id=158967)
 
-JURIX offers special registration fees for students and academics and a discount for registrations effected until Nov. 30, 2023 (“early bird”). For attending the conference dinner, it is necessary to buy an additional dinner ticket. Participants only interested in attending the workshops may purchase a “workshops-only” ticket which covers remote participation in workshops. Please note that remote participation is only offered for the workshops, not for the main conference.
+JURIX offers special registration fees for students and academics and a discount for registrations effected until Nov. 30, 2023 (“early bird”). For attending the conference dinner, it is necessary to buy an additional dinner ticket. Participants only interested in attending the workshops may purchase a “workshops-only” ticket which covers remote participation in workshops.
 
 |                                                        | Academic | Students | Other    |
 | ------------------------------------------------------ | -------- | -------- | -------- |
