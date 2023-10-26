@@ -62,8 +62,8 @@ Topics:
 
 We invite submissions related to the workshop topics. Submissions will undergo a workshop-level review process, focusing on overall quality, relevance, and diversity of topics. Accepted submissions will have the opportunity to be presented during the workshop. In-person participation is preferred, but hybrid (online) participation is nevertheless possible.
 
-- **Organizers**: (Law and Tech Lab Maastricht University)[https://www.maastrichtuniversity.nl/about-um/faculties/law/research/law-and-tech-lab
-- **Submission**: Proposals for demos and discussion papers can be submitted, either by means of abstracts (2-3 pages) or a paper (4-12 pages). Submissions can be emailed to (law-techlab@maastrichtuniversity.nl)[mailto:law-techlab@maastrichtuniversity.nl]. Submission Deadline: **5 November, 2023**. Notification: 13 November, 2023.
+- **Organizers**: [Law and Tech Lab Maastricht University](https://www.maastrichtuniversity.nl/about-um/faculties/law/research/law-and-tech-lab)
+- **Submission**: Proposals for demos and discussion papers can be submitted, either by means of abstracts (2-3 pages) or a paper (4-12 pages). Submissions can be emailed to [law-techlab@maastrichtuniversity.nl](mailto:law-techlab@maastrichtuniversity.nl). Submission Deadline: **5 November, 2023**. Notification: 13 November, 2023.
 
 
 <br/>
