@@ -4,9 +4,7 @@ title: Workshops
 permalink: /workshops/
 ---
 
-[still being updated...]
-
-[ALP2023](#alp-2023-workshop-on-ai-law-and-philosophy) :: [AI & Access to Justice](#ai--access-to-justice) :: [AI4Legs-II](#ai4legs-ii-2nd-workshop-on-ai-for-legislation) :: [Doctoral consortium](#jurix-2023-doctoral-consortium) 
+[ALP2023](#alp-2023-workshop-on-ai-law-and-philosophy) :: [AI & Access to Justice](#ai--access-to-justice) :: [AI4Legs-II](#ai4legs-ii-2nd-workshop-on-ai-for-legislation) :: [LegalDataAnnotation](#workshop-on-annotation-of-legal-data) :: [Doctoral consortium](#jurix-2023-doctoral-consortium) 
 
 ## ALP 2023: Workshop on AI, Law and Philosophy
 
@@ -48,6 +46,25 @@ This workshop would like to discuss these challenging questions with interdiscip
 - **Organizer**: Monica Palmirani (Research Institute for Human-Centered Artificial Intelligence, ALMA-AI, University of Bologna)
 - **Website**: [https://site.unibo.it/hypermodelex/en/agenda/ai4legs-second-edition-2023-ai-for-legislation-1](https://site.unibo.it/hypermodelex/en/agenda/ai4legs-second-edition-2023-ai-for-legislation-1)
 - **Submission**: [https://easychair.org/conferences/?conf=ai4legsii](https://easychair.org/conferences/?conf=ai4legsii)
+
+<br/>
+
+## Workshop on Annotation of Legal Data
+
+Legal data annotation plays a pivotal role in enhancing AI systems within the legal domain. The workshop aims to provide a platform for in-depth discussions, knowledge sharing, demonstrations, and practical insights into the challenges and opportunities of annotating legal data. The workshop is designed to bring together researchers and experts interested in exploring the nuances of annotating legal data, with a focus on topics such as software tools, annotator training, inter-rater and intra-rater reliability, and the publication of data and metadata. The workshop is organized in connection with the JURIX 2023 conference in Maastricht.
+
+Topics:
+
+- Annotation Software: Explore the available software tools and platforms for legal data annotation, including their features, advantages, and limitations.
+- Annotator Training: Delve into effective methods for training annotators to ensure the quality and consistency of annotated legal data.
+- Inter-Rater and Intra-Rater Reliability: Share experiencing regarding how to calculate and assess the reliability of human annotators in legal data annotation projects.
+- Publishing (meta)Data: Discuss strategies for effectively publishing metadata related to annotated legal data, including standards and best practices.
+
+We invite submissions related to the workshop topics. Submissions will undergo a workshop-level review process, focusing on overall quality, relevance, and diversity of topics. Accepted submissions will have the opportunity to be presented during the workshop. In-person participation is preferred, but hybrid (online) participation is nevertheless possible.
+
+- **Organizers**: (Law and Tech Lab Maastricht University)[https://www.maastrichtuniversity.nl/about-um/faculties/law/research/law-and-tech-lab
+- **Submission**: Proposals for demos and discussion papers can be submitted, either by means of abstracts (2-3 pages) or a paper (4-12 pages). Submissions can be emailed to (law-techlab@maastrichtuniversity.nl)[mailto:law-techlab@maastrichtuniversity.nl]. Submission Deadline: **5 November, 2023**. Notification: 13 November, 2023.
+
 
 <br/>
 
