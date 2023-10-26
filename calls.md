@@ -4,7 +4,7 @@ title: Calls
 permalink: /calls/
 ---
 
-[Call for Papers](#call-for-papers) :: [Call for Workshops and Tutorials](#call-for-workshops-and-tutorials) :: [Doctoral consortium](#doctoral-consortium-call)
+[Call for Papers](#call-for-papers) :: [Call for Workshops and Tutorials](#call-for-workshops-and-tutorials) :: [Doctoral consortium](#doctoral-consortium-call-for-papers)
 
 ## Important dates 
 
@@ -160,10 +160,11 @@ If accepted, tutorial organizers are responsible for:
 -   Ensure that tutorial participants register
 -   Schedule, attend and coordinate the tutorial
 
+<br/>
 --------------
 <br/>
 
-## Doctoral Consortium Call 
+## Doctoral Consortium: Call for Papers
 
 The Jurix 2023 Doctoral Consortium aims at promoting the exchange of ideas from PhD researchers in the area of Artificial Intelligence and Law, and at providing them an opportunity to interact and receive feedback from leading scholars and experts in the field. Specifically, the Consortium seeks to provide opportunities for PhD students to:
 
