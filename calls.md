@@ -217,7 +217,7 @@ Thesis descriptions or research outcomes are limited to 10 pages in English usin
 
 #### Important dates
 
-- Paper submission:	19th November 2023
+- Paper submission:	**19th November 2023**
 - Notification of acceptance:	30th November 2023
 - Camera ready deadline:	10th December 2023
 - Doctoral Consortium:	18th December 2023
