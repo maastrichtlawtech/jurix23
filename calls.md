@@ -226,5 +226,3 @@ Thesis descriptions or research outcomes are limited to 10 pages in English usin
 ### Award
 
 A Best Paper of 2020 - Doctoral Consortium Award will be assigned to the most original, innovative and well presented research thanks to OASIS LegalXML Steering Committee support.
-
-- Chair: Monica Palmirani, University of Bologna
