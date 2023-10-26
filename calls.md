@@ -4,7 +4,7 @@ title: Calls
 permalink: /calls/
 ---
 
-[Call for Papers](#call-for-papers) :: [Call for Workshops and Tutorials](#call-for-workshops-and-tutorials)
+[Call for Papers](#call-for-papers) :: [Call for Workshops and Tutorials](#call-for-workshops-and-tutorials) :: [Doctoral consortium](#doctoral-consortium-call)
 
 ## Important dates 
 
@@ -159,3 +159,71 @@ If accepted, tutorial organizers are responsible for:
 -   Distributing tutorial materials to attendees before the tutorial date (if needed)
 -   Ensure that tutorial participants register
 -   Schedule, attend and coordinate the tutorial
+
+--------------
+<br/>
+
+## Doctoral Consortium Call 
+
+The Jurix 2023 Doctoral Consortium aims at promoting the exchange of ideas from PhD researchers in the area of Artificial Intelligence and Law, and at providing them an opportunity to interact and receive feedback from leading scholars and experts in the field. Specifically, the Consortium seeks to provide opportunities for PhD students to:
+
+- obtain fruitful feedback and advice on their research projects;
+- meet experts from different backgrounds working on topics related to the AI & Law and Legal Information Systems fields;
+- have a face to face mentoring discussion on the topic and methodology of the PhD with an international senior scholar;
+- discuss concerns about research, supervision, the job market, and other career-related issues.
+
+To be eligible for the Consortium, a candidate must be a current doctoral student within a recognised university. Ideally, the candidate should have at least 12 months of work remaining before expected completion. The participants of the Doctoral Consortium are encouraged to register for and attend the main conference. The PhD student should be the sole author of the submission.
+
+The accepted thesis descriptions or research descriptions will be presented to an interested audience and subject to discussion during the Jurix 2023 conference. We expect submissions addressing any topic related to the AI and Law discipline, including the topics listed in the call for papers for the main conference, which include but are not limited to:
+
+- Formal and computational models of legal reasoning, including argumentation, evidential reasoning, legal interpretation, and decision making
+- Knowledge acquisition techniques for the legal domain, including natural language processing, argument and data mining
+- Legal knowledge representation, including legal ontologies and common sense knowledge
+- Machine Learning applied to legal text to advance legal analytics
+- Automatic legal text classification and summarisation
+- Automated information extraction from legal databases and texts
+- Data mining applied to the legal domain
+- Conceptual or model-based legal information retrieval
+- E-government, e-democracy and e-justice
+- Legal and Ethical issues of AI and Law technology and its applications
+- Modelling norms and legal reasoning for multi-agent systems
+- Modelling negotiation and contract formation
+- Technical and legal aspects of smart contracts and application of blockchain technology in the legal domain
+- Big data and data analytics for and in the legal domain
+- Online dispute resolution
+- Intelligent legal tutoring systems
+- Intelligent support systems for the legal domain
+- Interdisciplinary applications of legal informatics methods and systems
+- Legal design theory and applications
+- Legal knowledge extraction and visualization
+- Blockchain and smart contract
+- Explainable AI and Legal implications
+- Legal ontologies and Knowledge graph for legal metadata
+- Internet of Things and legal issues
+
+### Submissions
+
+Students are invited to submit an original description of their work addressing the following aspects: 
+
+- A clear formulation of the research question;
+- An identification of the significant problems in the field of research;
+- An outline of the current knowledge of the problem domain, as well as the state of existing solutions;
+- A presentation of preliminary ideas, the proposed approach and the results achieved so far;
+- A sketch of the applied research methodology;
+- A description of the PhD project’s contribution to the problem solution;
+- A discussion of how the suggested solution is different, new, or better than existing approaches to the problem.
+
+Thesis descriptions or research outcomes are limited to 10 pages in English using LNCS format and submitted electronically in PDF format jointly with a maximum 3 page CV. Submissions will be assessed by members from the AI and Law community who will consider how well the submissions address each of the aspects given above.
+
+#### Important dates
+
+- Paper submission:	19th November 2023
+- Notification of acceptance:	30th November 2023
+- Camera ready deadline:	10th December 2023
+- Doctoral Consortium:	18th December 2023
+
+### Award
+
+A Best Paper of 2020 - Doctoral Consortium Award will be assigned to the most original, innovative and well presented research thanks to OASIS LegalXML Steering Committee support.
+
+- Chair: Monica Palmirani, University of Bologna
