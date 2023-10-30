@@ -30,9 +30,11 @@ You will be forwarded to the website of the hotel, when you click on the name.
 
 ## Travelling to Maastricht 
 
-We recommend to fly-in via one of the following airports: 
+We recommend to fly-in via one of the following airports (ordered by proximity): 
+- Maastricht: there is a regular bus to Maastricht Centre.
+- Eindhoven: there is a regular bus to Eindhoven train station, which in turn has regular trains to Maastricht Centre.
 - Brussels (Zaventem): there is a train connection from Brussels-Airport-Zaventem to Maastricht Centre.
-- Düsseldorf: we can help you to arrange a taxi transfer from Düsseldorf to Maastricht.
+- Düsseldorf: we can help you to arrange a taxi transfer from Düsseldorf to Maastricht Centre.
 - Amsterdam (Schiphol): there is a train connection from Schiphol Airport to Maastricht Centre. 
 
 After arriving at the central station of Maastricht you can take a taxi transfer, which will bring you in 10 minutes to the Faculty of Law. Another option is to walk which will take approximately 20 minutes. 
