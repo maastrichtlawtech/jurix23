@@ -31,7 +31,8 @@ Maastricht University (UM) is the most international university in the Netherlan
 
 The local organizer of JURIX 2023 – [Maastricht Law and Tech Lab ](https://www.maastrichtuniversity.nl/about-um/faculties/law/research/law-and-tech-lab)– fosters a community of legal researchers and computer scientists who work collaboratively to integrate law and computer science methods.
 
-## Address and Contact details
+## Conference venue and contact details
+Conference venue<br>
 Faculty of Law, Maastricht University<br>
 Bouillonstraat 1–3<br>
 6211 LH Maastricht
