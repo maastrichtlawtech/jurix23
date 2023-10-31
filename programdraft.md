@@ -14,7 +14,7 @@ permalink: /program-draft/
 
 - *scheduling to be announced*
 
-17:30 - 18:15. **First Keynote Speech: Jaap Hage**, professor in Legal Theory, Maastricht University 
+17:30 - 18:15. **First Keynote Speech: [Jaap Hage](https://jurix23.maastrichtlawtech.eu/speakers/#monday-18th-december-2023)**, professor in Legal Theory, Maastricht University 
 
 18:15 - 20:30. *Reception*
 
@@ -59,7 +59,7 @@ permalink: /program-draft/
   
 ## Tuesday 19th December, afternoon (plenary)
 
-13:30 - 14:30. **Second Keynote Speech: Piek Vossen**, professor in Computational Lexicology at the VU University Amsterdam, head of the Computational Linguistics & Text Mining Lab.
+13:30 - 14:30. **Second Keynote Speech: [Piek Vossen](https://jurix23.maastrichtlawtech.eu/speakers/#tuesday-19th-december-2023)**, professor in Computational Lexicology at the VU University Amsterdam, head of the Computational Linguistics & Text Mining Lab.
 
 14:30 - 15:45. **session 3: Mixed session**
 		
@@ -127,7 +127,7 @@ permalink: /program-draft/
 
 ## Wednesday 20th December, afternoon (plenary)
 		
-13:30 - 14:30. **Third Keynote Speech: Iris van Rooij**, professor in Computational Cognitive Science at Radboud University, PI at the Donders Institute for Brain, Cognition and Behaviour.
+13:30 - 14:30. **Third Keynote Speech: [Iris van Rooij](https://jurix23.maastrichtlawtech.eu/speakers/#wednesday-20th-december-2023)**, professor in Computational Cognitive Science at Radboud University, PI at the Donders Institute for Brain, Cognition and Behaviour.
 		
 14:30 - 16:00. **session 7: Emerging topics**
 		
