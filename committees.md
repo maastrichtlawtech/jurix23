@@ -69,24 +69,23 @@ permalink: /committees/
 - Michael Bommarito, Bommarito Consulting, LLC, United States
 - Georg Borges, Saarlandes University, Germany
 - Karl Branting, MITRE, United States
-- Pompeu Casanovas, Universitat Autònoma de Barcelona (UAB), Spain
 - Ilaria Canavotto, University of Maryland, United States
+- Pompeu Casanovas, Universitat Autònoma de Barcelona (UAB), Spain
 - Marcello Ceci, University of Luxembourg, Luxembourg
 - Jack G. Conrad, Thomson Reuters, United States
 - Giuseppe Contissa, University of Bologna, Italy
 - Claudia d'Amato, University of Bari, Italy
 - Luigi Di Caro, University of Torino, Italy
-- Arthur Dyevre, KU Leuven, Belgium
 - Massimo Durante, University of Torino, Italy
+- Arthur Dyevre, KU Leuven, Belgium
 - Jenny Eriksson Lundström, Uppsala University, Sweden
 - Nicoletta Fornara, Università della Svizzera Italiana, Switzerland
 - Enrico Francesconi, IGSG-CNR, Italy
-- Aldo Gangemi, University of Bologna, CNR-ISTC, Italy
 - Marco Giacalone, University of Naples Federico II, Italy
 - Guido Governatori, Independent researcher, Australia
 - Cristine Griffo, Free University of Bozen-Bolzano, Italy
 - Davide Grossi, University of Groningen, Netherlands
-- Jakub Harasta, Masaryk University, Czech Republic
+- Jakub Harašta, Masaryk University, Czech Republic
 - Mustafa Hashmi, Data 61, CSIRO, Australia
 - Jeff Horty, University of Maryland, United States
 - Joris Hulstijn, University of Luxembourg, Luxembourg
@@ -94,7 +93,6 @@ permalink: /committees/
 - Jeroen Keppens, King's College London, United Kingdom
 - Francesca Lagioia, University of Bologna, Italy
 - Tomer Libal, American University of Paris, France
-- Emiliano Lorini, Université Paul Sabatier, IRIT, France
 - Reka Markovich, University of Luxembourg, Luxembourg
 - Florian Mattes, TU Munich, Germany
 - Thorne McCarty, Rutgers University, United States
@@ -107,7 +105,7 @@ permalink: /committees/
 - Monica Palmirani, University of Bologna, Italy
 - Matteo Pascucci, Slovak Academy of Sciences, Central European University, Slovakia
 - Marta Poblet, RMIT University, Australia
-- Radim Polcak, Masaryk University, Czech Republic
+- Radim Polčák, Masaryk University, Czech Republic
 - Henry Prakken, Utrecht University, Netherlands
 - Paulo Quaresma, Universidade de Évora, Portugal
 - Víctor Rodríguez Doncel, Universidad Politécnica de Madrid, Spain
@@ -125,11 +123,11 @@ permalink: /committees/
 - Sarah Sutherland, Canadian Legal Information Institute (CanLII), Canada
 - Jolien Ubacht, TU Delft, Netherlands
 - Leon van der Torre, University of Luxembourg, Luxembourg
+- Gijs van Dijck, University of Maastricht, Netherlands
 - Tom van Engers, University of Amsterdam, Netherlands
 - Marc van Opijnen, Publications Office of the Netherlands (KOOP), Netherlands
 - Bart Verheij, University of Groningen, Netherlands
 - Serena Villata, CNRS - I3S Sophia-Antipolis, France
-- Fabio Vitali, University of Bologna, Italy
 - Vern Walker, Hofstra University, United States
 - Bernhard Waltl, BMW group, Germany
 - Yueh-Hsuan Weng, Tohoku University, Japan
