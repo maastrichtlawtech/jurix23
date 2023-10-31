@@ -28,8 +28,8 @@ permalink: /program-draft/
 		
 - Trevor Bench-Capon. A Note on Hierarchical Constraints [long]
 - Ilaria Canavotto and John Horty. The role of intermediate factors [long]	
-- Agata Ciabattoni, Xavier Parent and Giovanni Sartor. Permissions in a Kelsenian perspective [short]
 - Adam Wyner and Tomasz Zurek. On teleological reasoning in US Supreme Court Decisions [short]		
+- Agata Ciabattoni, Xavier Parent and Giovanni Sartor. Permissions in a Kelsenian perspective [short]
 		
 09:15 - 10:30. **session 1B: Natural Language Processing (I)**
 		
