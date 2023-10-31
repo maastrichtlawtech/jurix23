@@ -26,9 +26,9 @@ permalink: /program-draft/
 
 09:15 - 10:30. **session 1A: Formal approaches (I)**
 		
-- Daphne Odekerken, Floris Bex and Henry Prakken. Precedent-based reasoning with incomplete cases [long]		
-- Trevor Bench-Capon. A Note on Hierarchical Constraints [long]		
-- Agata Ciabattoni, Xavier Parent and Giovanni Sartor. Permissions in a Kelsenian perspective [short]		
+- Trevor Bench-Capon. A Note on Hierarchical Constraints [long]
+- Ilaria Canavotto and John Horty. The role of intermediate factors [long]	
+- Agata Ciabattoni, Xavier Parent and Giovanni Sartor. Permissions in a Kelsenian perspective [short]
 - Adam Wyner and Tomasz Zurek. On teleological reasoning in US Supreme Court Decisions [short]		
 		
 09:15 - 10:30. **session 1B: Natural Language Processing (I)**
@@ -48,7 +48,7 @@ permalink: /program-draft/
 		
 11:00 - 12:30. **session 2B: Natural Language Processing (II)**
 		
-- Samyar Janatian, Hannes Westermann, Jinzhe Tan, Jaromir Savelka and Karim Benyekhlef. Extracting Structured - Representations from Legislation using Large Language Models [long]		
+- Samyar Janatian, Hannes Westermann, Jinzhe Tan, Jaromir Savelka and Karim Benyekhlef. Extracting Structured Representations from Legislation using Large Language Models [long]		
 - Ren-Der Sun, Chia-Hui Chang and Kuo-Chun Chien. New Horizons of Legal Judgement Predication via MTL and LoRA [long]
 - Huihui Xu and Kevin Ashley. Question-Answering Approach to Evaluate Legal Summaries [short]		
 - Marton Ribary, Eugenio Vaccari, Paul Krause, Thomas Wood and Miklos Orban. Prompt engineering and provision of context in domain specific use of GPT [short]		
@@ -63,10 +63,10 @@ permalink: /program-draft/
 
 14:30 - 15:45. **session 3: Mixed session**
 		
-- Ilaria Canavotto and John Horty. The role of intermediate factors [long]		
-- Ludi van Leeuwen, Bart Verheij, Rineke Verbrugge and Silja Renooij. Evaluating Methods for Setting a Prior Probability of Guilt [long]		
-- Anas Belfathi, Nicolas Hernandez and Laura Monceaux. Harnessing GPT-3.5-turbo for Rhetorical Role Prediction in Legal Cases [long]		
-		
+- Daphne Odekerken, Floris Bex and Henry Prakken. Precedent-based reasoning with incomplete cases [long]			
+- Ludi van Leeuwen, Bart Verheij, Rineke Verbrugge and Silja Renooij. Evaluating Methods for Setting a Prior Probability of Guilt [long]
+- Anas Belfathi, Nicolas Hernandez and Laura Monceaux. Harnessing GPT-3.5-turbo for Rhetorical Role Prediction in Legal Cases [long]  
+			
 15:45 - 16:30. *coffee break* + **demos**
 
 - Subinay Adhikary, Dwaipayan Roy, Debasis Ganguly, Shouvik Kumar Guha and Kripabandhu Ghosh. LeDA: A System for Legal Data Annotation [demo]
@@ -74,7 +74,7 @@ permalink: /program-draft/
 - Suzan Zuurmond, Annemarie Borg, Matthijs van Kempen and Remi Wieten. Human-centred explanation of rule-based decision-making systems [demo]
 - Ari Hershowitz and Sela Mador-Haim. “Comparative Prints Suite” of the United States House of Representatives: NLP for tracking changes in bills and laws [demo]
 - Daniele Theseider Dupre. Answer Set Programming for Legal Decision Support and Explanation [demo]
-- Samuel Dahan, Rohan Bhambhoria, David Liang and Xiaodan Zhu. Lawyers Should Not Trust AI : A call for an Open-source Legal Language Model  [demo]
+- Samuel Dahan, Rohan Bhambhoria, David Liang and Xiaodan Zhu. Lawyers Should Not Trust AI: A call for an Open-source Legal Language Model  [demo]
 - Kevin Bönisch, Giuseppe Abrami, Sabine Wehnert and Alexander Mehler. Bundestags-Mine: Natural Language Processing for Extracting Key Information from Government Documents [demo]
 		
 16:30 - 17:00. **session 4: Mixed session**
