@@ -36,8 +36,9 @@ permalink: /program-draft/
 - Morgan Gray, Jaromir Savelka, Wesley Oliver and Kevin Ashley. Can GPT Alleviate the Burden of Annotation? [long]
 - May Myo Zin, Ha Thanh Nguyen, Ken Satoh, Saku Sugawara and Fumihito Nishino. Information Extraction from Lengthy Legal Contracts: Leveraging Query-Based Summarization and GPT-3.5 [long]		
 - Youssef Al Mouatamid, Jihad Zahir, Marie Bonnin and Hajar Mousannif. Assessing Ocean's legal protection using AI: A new dataset and a BERT-based classifier [short]		
-- Tomer Libal and Aleksander Smywiński-Pohl. Giving Examples Instead of Answering Questions: Introducing Legal Concept-Example Systems [short]		
-10:30 - 11:00. *break*	
+- Tomer Libal and Aleksander Smywiński-Pohl. Giving Examples Instead of Answering Questions: Introducing Legal Concept-Example Systems [short]
+ 
+10:30 - 11:00. *coffee break*	
 		
 11:00 - 12:30. **session 2A: Formal approaches (II)**
 		
