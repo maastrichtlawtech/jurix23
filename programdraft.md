@@ -4,11 +4,11 @@ title: Program (draft)
 permalink: /program-draft/
 ---
 
-[Monday 18th](#monday-18th) :: [Tuesday 19th (morning)](#tuesday-19th-morning-parallel-sessions) :: [Tuesday 19th (afternoon)](#tuesday-19th-afternoon-plenary) :: [Wednesday 20th (morning)](#wednesday-20th-morning-parallel-sessions) :: [Wednesday 20th (afternoon)](#wednesday-20th-afternoon-plenary)  
+[Monday 18th Dec](#monday-18th-december) :: [Tuesday 19th Dec (morning)](#tuesday-19th-december-morning-parallel-sessions) :: [Tuesday 19th Dec (afternoon)](#tuesday-19th-december-afternoon-plenary) :: [Wednesday 20th Dec (morning)](#wednesday-20th-december-morning-parallel-sessions) :: [Wednesday 20th Dec (afternoon)](#wednesday-20th-december-afternoon-plenary)  
 
 <br />
 
-## Monday 18th
+## Monday 18th December
 
 09:00 - 17:00. **Workshops and Doctoral Consortium**
 
@@ -20,7 +20,7 @@ permalink: /program-draft/
 
 <br />
 
-## Tuesday 19th, morning (parallel sessions)
+## Tuesday 19th December, morning (parallel sessions)
 
 09:00 - 09:15. *opening: Welcome from Maastricht University and from the conference organizers*
 
@@ -57,7 +57,7 @@ permalink: /program-draft/
 
 <br />
   
-## Tuesday 19th, afternoon (plenary)
+## Tuesday 19th December, afternoon (plenary)
 
 13:30 - 14:30. **Second Keynote Speech: Piek Vossen**, professor in Computational Lexicology at the VU University Amsterdam, head of the Computational Linguistics & Text Mining Lab.
 
@@ -86,7 +86,7 @@ permalink: /program-draft/
 
 <br />
 
-## Wednesday 20th morning (parallel sessions)
+## Wednesday 20th December, morning (parallel sessions)
 				
 09:00 - 10:30. **session 5A: Formal approaches (III)**
 		
@@ -125,7 +125,7 @@ permalink: /program-draft/
 
 <br />
 
-## Wednesday 20th afternoon (plenary)
+## Wednesday 20th December, afternoon (plenary)
 		
 13:30 - 14:30. **Third Keynote Speech: Iris van Rooij**, professor in Computational Cognitive Science at Radboud University, PI at the Donders Institute for Brain, Cognition and Behaviour.
 		
