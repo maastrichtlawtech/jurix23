@@ -6,6 +6,8 @@ permalink: /program-draft/
 
 [Monday 18th](#monday-18th) :: [Tuesday 19th (morning)](#tuesday-19th-morning-parallel-sessions) :: [Tuesday 19th (afternoon)](#tuesday-19th-afternoon-plenary) :: [Wednesday 20th (morning)](#wednesday-20th-morning-parallel-sessions) :: [Wednesday 20th (afternoon)](#wednesday-20th-afternoon-plenary)  
 
+<br />
+
 ## Monday 18th
 
 09:00 - 17:00. **Workshops and Doctoral Consortium**
@@ -15,6 +17,8 @@ permalink: /program-draft/
 17:30 - 18:15. **First Keynote Speech: Jaap Hage**, professor in Legal Theory, Maastricht University 
 
 18:15 - 20:30. *Reception*
+
+<br />
 
 ## Tuesday 19th, morning (parallel sessions)
 
@@ -50,8 +54,11 @@ permalink: /program-draft/
 - Marton Ribary, Eugenio Vaccari, Paul Krause, Thomas Wood and Miklos Orban. Prompt engineering and provision of context in domain specific use of GPT [short]		
 		
 12:30 - 13:30. *lunch break*	
-		
-## Tuesday 19th, afternoon (plenary)		
+
+<br />
+  
+## Tuesday 19th, afternoon (plenary)
+
 13:30 - 14:30. **Second Keynote Speech: Piek Vossen**, professor in Computational Lexicology at the VU University Amsterdam, head of the Computational Linguistics & Text Mining Lab.
 
 14:30 - 15:45. **session 3: Mixed session**
@@ -76,6 +83,8 @@ permalink: /program-draft/
 - Jakub Drápal, Hannes Westermann and Jaromir Savelka. Using Large Language Models to Support Thematic Analysis in Empirical Legal Studies [long]
 - Jack Mumford, Katie Atkinson and Trevor Bench-Capon. Human Performance on the AI Legal Case Verdict Classification Task [short]
 - Guilherme Paulino-Passos and Francesca Toni. Learning Case Relevance in Case-Based Reasoning with Abstract Argumentation [short]
+
+<br />
 
 ## Wednesday 20th morning (parallel sessions)
 				
@@ -113,7 +122,9 @@ permalink: /program-draft/
 - Roberto Abbruzzese, Domenico Alfano and Andrea Lombardi. REMOAC: A Retroactive Explainable Method for OCR Anomalies Correction in legal domain [short]		
 		
 12:30 - 13:30. lunch break		
-		
+
+<br />
+
 ## Wednesday 20th afternoon (plenary)
 		
 13:30 - 14:30. **Third Keynote Speech: Iris van Rooij**, professor in Computational Cognitive Science at Radboud University, PI at the Donders Institute for Brain, Cognition and Behaviour.
@@ -121,9 +132,8 @@ permalink: /program-draft/
 14:30 - 16:00. **session 7: Emerging topics**
 		
 - Gijs van Dijck, Benjamin Rodrigues de Miranda and Chloé Crombach. Centrality Scores and Precedent Value in Legal Network Analysis [long]		
-- Mann Khatri, Reshma Sheik, Pritish Wadhwa, Gitansh Satija, Yaman Kumar, Rajiv Shah and Ponnurangam Kumaraguru. CiteCaseLAW: Citation Worthiness Detection in Caselaw for Legal Assistive Writing [short]		
+- Mann Khatri, Reshma Sheik, Pritish Wadhwa, Gitansh Satija, Yaman Kumar, Rajiv Shah and Ponnurangam Kumaraguru. CiteCaseLAW: Citation Worthiness Detection in Caselaw for Legal Assistive Writing [short]
 - Yiwei Lu, Zhe Yu, Yuhui Lin, Burkhard Schafer, Andrew Ireland and Lachlan Urquhart. A Legal System to Modify Autonomous Vehicle Designs in Transnational Contexts [short]		
 - Łukasz Górski and Shashishekar Ramakrishna. Challenges in Adapting LLMs for Transparency: Complying with Art. 14 EU AI Act [short]		
 - Hilmy Hanif, Jorge Constantino, Marie-Therese Sekwenz, Michel van Eeten, Jolien Ubacht, Ben Wagner and Yury Zhauniarovich. Tough Decisions? Supporting System Classification According to the AI Act [short]		
-
 16:00 - 17:00. *Closing remarks*	
