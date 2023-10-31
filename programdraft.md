@@ -4,7 +4,7 @@ title: Program (draft)
 permalink: /program-draft/
 ---
 
-[Monday 18th](#monday-18th) :: [Tuesday 19th (morning)](#) :: [Tuesday 19th (afternoon)](#) :: [Wednesday 20th (morning)](#) :: [Wednesday 20th (afternoon)](#)  
+[Monday 18th](#monday-18th) :: [Tuesday 19th (morning)](#tuesday-19th-morning-parallel-sessions) :: [Tuesday 19th (afternoon)](#tuesday-19th-afternoon-plenary) :: [Wednesday 20th (morning)](#wednesday-20th-morning-parallel-sessions) :: [Wednesday 20th (afternoon)](#wednesday-20th-afternoon-plenary)  
 
 ## Monday 18th
 
