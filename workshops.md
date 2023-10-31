@@ -59,11 +59,13 @@ Topics:
 - Annotator Training: Delve into effective methods for training annotators to ensure the quality and consistency of annotated legal data.
 - Inter-Rater and Intra-Rater Reliability: Share experiencing regarding how to calculate and assess the reliability of human annotators in legal data annotation projects.
 - Publishing (meta)Data: Discuss strategies for effectively publishing metadata related to annotated legal data, including standards and best practices.
-
+  
 We invite submissions related to the workshop topics. Submissions will undergo a workshop-level review process, focusing on overall quality, relevance, and diversity of topics. Accepted submissions will have the opportunity to be presented during the workshop. In-person participation is preferred, but hybrid (online) participation is nevertheless possible.
 
-- **Organizers**: Gijs van Dijck (Maastricht University), Jelena Mitrovic (University of Passau), Rohan Nanda (Maastricht University)
-- **Submission**: Proposals for demos and discussion papers can be submitted, either by means of abstracts (2-3 pages) or a paper (4-12 pages). Submissions can be emailed to [law-techlab@maastrichtuniversity.nl](mailto:law-techlab@maastrichtuniversity.nl). Submission Deadline: **7 November, 2023**. Notification: 13 November, 2023.
+- **Organizers**: Gijs van Dijck (Maastricht University), Jelena Mitrovic (University of Passau), Daniel Braun (University of Twente), Rohan Nanda (Maastricht University).!
+
+- **Submission**: Proposals for demos and discussion papers can be submitted, either by means of abstracts (2-3 pages) or a paper (4-12 pages) (using the IOS formatting guidelines available at [https://www.iospress.com/book-article-instructions](https://www.iospress.com/book-article-instructions)).
+Submissions can be emailed to [law-techlab@maastrichtuniversity.nl](mailto:law-techlab@maastrichtuniversity.nl). Submission Deadline: **7 November, 2023**. Notification: 13 November, 2023.
 
 <br/>
 
