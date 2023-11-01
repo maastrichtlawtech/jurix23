@@ -136,5 +136,6 @@ permalink: /program-draft/
 - Mann Khatri, Reshma Sheik, Pritish Wadhwa, Gitansh Satija, Yaman Kumar, Rajiv Shah and Ponnurangam Kumaraguru. CiteCaseLAW: Citation Worthiness Detection in Caselaw for Legal Assistive Writing [short]
 - Yiwei Lu, Zhe Yu, Yuhui Lin, Burkhard Schafer, Andrew Ireland and Lachlan Urquhart. A Legal System to Modify Autonomous Vehicle Designs in Transnational Contexts [short]		
 - Łukasz Górski and Shashishekar Ramakrishna. Challenges in Adapting LLMs for Transparency: Complying with Art. 14 EU AI Act [short]		
-- Hilmy Hanif, Jorge Constantino, Marie-Therese Sekwenz, Michel van Eeten, Jolien Ubacht, Ben Wagner and Yury Zhauniarovich. Tough Decisions? Supporting System Classification According to the AI Act [short]		
-16:00 - 17:00. *Closing remarks*	
+- Hilmy Hanif, Jorge Constantino, Marie-Therese Sekwenz, Michel van Eeten, Jolien Ubacht, Ben Wagner and Yury Zhauniarovich. Tough Decisions? Supporting System Classification According to the AI Act [short]
+  
+16:00 - 17:00. *Closing remarks* + Open discussion?
