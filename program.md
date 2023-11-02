@@ -4,9 +4,9 @@ title: Program
 permalink: /program/
 ---
 
-[Monday 18th Dec](#monday-18th-december) :: [Tuesday 19th Dec (morning)](#tuesday-19th-december-morning-parallel-sessions) :: [Tuesday 19th Dec (afternoon)](#tuesday-19th-december-afternoon-plenary) :: [Wednesday 20th Dec (morning)](#wednesday-20th-december-morning-parallel-sessions) :: [Wednesday 20th Dec (afternoon)](#wednesday-20th-december-afternoon-plenary)  
+(_There may be still slight variations_)
 
-(_There may be slight variations_)
+[Monday 18th Dec](#monday-18th-december) :: [Tuesday 19th Dec (morning)](#tuesday-19th-december-morning-parallel-sessions) :: [Tuesday 19th Dec (afternoon)](#tuesday-19th-december-afternoon-plenary) :: [Wednesday 20th Dec (morning)](#wednesday-20th-december-morning-parallel-sessions) :: [Wednesday 20th Dec (afternoon)](#wednesday-20th-december-afternoon-plenary)  
 
 <br />
 
