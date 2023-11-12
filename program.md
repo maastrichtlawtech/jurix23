@@ -16,7 +16,7 @@ permalink: /program/
 
 - *scheduling to be announced*
 
-17:30 - 18:15. **First Keynote Speech: [Jaap Hage](https://jurix23.maastrichtlawtech.eu/speakers/#monday-18th-december-2023)**, professor in Legal Theory, Maastricht University 
+17:15 - 18:15. **First Keynote Speech: [Jaap Hage](https://jurix23.maastrichtlawtech.eu/speakers/#monday-18th-december-2023)**, professor in Legal Theory, Maastricht University 
 
 18:15 - 20:30. *Reception*
 
