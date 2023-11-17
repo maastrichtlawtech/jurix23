@@ -87,6 +87,8 @@ permalink: /program/
 - Jack Mumford, Katie Atkinson and Trevor Bench-Capon. Human Performance on the AI Legal Case Verdict Classification Task [short]
 - Guilherme Paulino-Passos and Francesca Toni. Learning Case Relevance in Case-Based Reasoning with Abstract Argumentation [short]
 
+19.00-22.30h. **Dinner**
+
 <br />
 
 ## Wednesday 20th December, morning (parallel sessions)
