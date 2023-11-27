@@ -29,8 +29,8 @@ permalink: /program/
 09:15 - 10:30. **session 1A: Formal approaches (I)**
 		
 - Trevor Bench-Capon. A Note on Hierarchical Constraints [long]
-- Ilaria Canavotto and John Horty. The role of intermediate factors [long]	
-- Adam Wyner and Tomasz Zurek. On teleological reasoning in US Supreme Court Decisions [short]		
+- Ilaria Canavotto and John Horty. The importance of intermediate factors [long]	
+- Adam Wyner and Tomasz Zurek. On Legal Teleological Reasoning [short]		
 - Agata Ciabattoni, Xavier Parent and Giovanni Sartor. Permissions in a Kelsenian perspective [short]
 		
 09:15 - 10:30. **session 1B: Natural Language Processing (I)**
@@ -45,15 +45,15 @@ permalink: /program/
 11:00 - 12:30. **session 2A: Formal approaches (II)**
 		
 - Cecilia Di Florio, Xinghan Liu, Emiliano Lorini, Antonino Rotolo and Giovanni Sartor. Inferring New Classifications in Legal Case-based Reasoning [long]		
-- Kees van Berkel, Reka Markovich, Christian Strasser and Leon van der Torre. Reasoning in Conflict of Laws: A Formal Model Accounting for Transmission, Renvoi, and Forum Shopping [long]		
+- Kees van Berkel, Reka Markovich, Christian Strasser and Leon van der Torre. Arguing About Choosing a Normative System: Conflict of Laws [long]		
 - Kathrin Hanauer, Tereza Novotná and Matteo Pascucci. Assisted Normative Reasoning with Aristotelian Diagrams [short]
 - Michał Araszkiewicz. Conceptual Structures in Statutory Interpretation [short]		
 		
 11:00 - 12:30. **session 2B: Natural Language Processing (II)**
 		
-- Samyar Janatian, Hannes Westermann, Jinzhe Tan, Jaromir Savelka and Karim Benyekhlef. Extracting Structured Representations from Legislation using Large Language Models [long]		
-- Ren-Der Sun, Chia-Hui Chang and Kuo-Chun Chien. New Horizons of Legal Judgement Predication via MTL and LoRA [long]
-- Huihui Xu and Kevin Ashley. Question-Answering Approach to Evaluate Legal Summaries [short]		
+- Samyar Janatian, Hannes Westermann, Jinzhe Tan, Jaromir Savelka and Karim Benyekhlef. From Text to Structure: Using Large Language Models to Support the Development of Legal Expert Systems [long]	
+- Ren-Der Sun, Chia-Hui Chang and Kuo-Chun Chien. New Horizons of Legal Judgement Predication via Multi-Task Learning and LoRA [long]
+- Huihui Xu and Kevin Ashley. A Question-Answering Approach to Evaluate Legal Summaries [short]		
 - Marton Ribary, Eugenio Vaccari, Paul Krause, Thomas Wood and Miklos Orban. Prompt engineering and provision of context in domain specific use of GPT [short]		
 		
 12:30 - 13:30. *lunch break*	
@@ -77,7 +77,7 @@ permalink: /program/
 - Suzan Zuurmond, Annemarie Borg, Matthijs van Kempen and Remi Wieten. Human-centred explanation of rule-based decision-making systems [demo]
 - Ari Hershowitz and Sela Mador-Haim. “Comparative Prints Suite” of the United States House of Representatives: NLP for tracking changes in bills and laws [demo]
 - Daniele Theseider Dupre. Answer Set Programming for Legal Decision Support and Explanation [demo]
-- Samuel Dahan, Rohan Bhambhoria, David Liang and Xiaodan Zhu. Lawyers Should Not Trust AI: A call for an Open-source Legal Language Model  [demo]
+- Samuel Dahan, Rohan Bhambhoria, David Liang and Xiaodan Zhu. OpenJustice.ai: A Global Open-source Legal Language Model [demo]
 - Kevin Bönisch, Giuseppe Abrami, Sabine Wehnert and Alexander Mehler. Bundestags-Mine: Natural Language Processing for Extracting Key Information from Government Documents [demo]
 		
 16:30 - 17:00. **session 4: Mixed session**
@@ -112,7 +112,7 @@ permalink: /program/
 	
 11:00 - 12:30. **session 6A: Formal approaches (IV) and hybrid approaches**
 		
-- Wachara Fungwacharakorn, Kanae Tsushima, Hiroshi Hosobe, Hideaki Takeda and Ken Satoh. Connecting Rule-Based and Case-Based Representations of Ethical Norms [short]		
+- Wachara Fungwacharakorn, Kanae Tsushima, Hiroshi Hosobe, Hideaki Takeda and Ken Satoh. Connecting Rule-Based and Case-Based Representations of Soft-Constraint Norms [short]		
 - Preston Carlson and Michael Genesereth. Insurance Portfolio Analysis as Containment Testing [short]		
 - Harshvardhan J. Pandit, Paul Ryan, Georg Philip Krog, Martin Crane and Rob Brennan. Towards a Semantic Specification for GDPR Data Breach Reporting [short]		
 - Tien-Hsuan Wu, Ben Kao and Michael M.K. Cheung. Judgment Retrieval Made Easier through Query Analysis [short]
