@@ -80,7 +80,7 @@ permalink: /program/
 - Samuel Dahan, Rohan Bhambhoria, David Liang and Xiaodan Zhu. OpenJustice.ai: A Global Open-source Legal Language Model [demo]
 - Kevin Bönisch, Giuseppe Abrami, Sabine Wehnert and Alexander Mehler. Bundestags-Mine: Natural Language Processing for Extracting Key Information from Government Documents [demo]
 		
-16:30 - 17:00. **session 4: Mixed session**
+16:30 - 18:00. **session 4: Mixed session**
 
 - Cor Steging, Silja Renooij and Bart Verheij. Improving Rationales with Small, Inconsistent and Incomplete Data [long]
 - Jakub Drápal, Hannes Westermann and Jaromir Savelka. Using Large Language Models to Support Thematic Analysis in Empirical Legal Studies [long]
