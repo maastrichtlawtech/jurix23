@@ -72,7 +72,6 @@ permalink: /program/
 			
 15:45 - 16:30. *coffee break* + **demos**
 
-- Subinay Adhikary, Dwaipayan Roy, Debasis Ganguly, Shouvik Kumar Guha and Kripabandhu Ghosh. LeDA: A System for Legal Data Annotation [demo]
 - Ha-Thanh Nguyen, Randy Goebel, Francesca Toni, Kostas Stathis and Ken Satoh. LawGiBa - Combining GPT, Knowledge Bases, and Logic Programming in a Legal Assistance System [demo]
 - Suzan Zuurmond, Annemarie Borg, Matthijs van Kempen and Remi Wieten. Human-centred explanation of rule-based decision-making systems [demo]
 - Ari Hershowitz and Sela Mador-Haim. “Comparative Prints Suite” of the United States House of Representatives: NLP for tracking changes in bills and laws [demo]
@@ -137,7 +136,6 @@ permalink: /program/
 14:30 - 16:00. **session 7: Emerging topics**
 		
 - Gijs van Dijck, Benjamin Rodrigues de Miranda and Chloé Crombach. Centrality Scores and Precedent Value in Legal Network Analysis [long]		
-- Mann Khatri, Reshma Sheik, Pritish Wadhwa, Gitansh Satija, Yaman Kumar, Rajiv Shah and Ponnurangam Kumaraguru. CiteCaseLAW: Citation Worthiness Detection in Caselaw for Legal Assistive Writing [short]
 - Yiwei Lu, Zhe Yu, Yuhui Lin, Burkhard Schafer, Andrew Ireland and Lachlan Urquhart. A Legal System to Modify Autonomous Vehicle Designs in Transnational Contexts [short]		
 - Łukasz Górski and Shashishekar Ramakrishna. Challenges in Adapting LLMs for Transparency: Complying with Art. 14 EU AI Act [short]		
 - Hilmy Hanif, Jorge Constantino, Marie-Therese Sekwenz, Michel van Eeten, Jolien Ubacht, Ben Wagner and Yury Zhauniarovich. Tough Decisions? Supporting System Classification According to the AI Act [short]
