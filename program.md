@@ -16,7 +16,7 @@ permalink: /program/
 
 - *scheduling to be announced*
 
-17:15 - 18:15. **First Keynote Speech: [Jaap Hage](https://jurix23.maastrichtlawtech.eu/speakers/#monday-18th-december-2023)**, professor in Legal Theory, Maastricht University. [_**Explainable Legal AI**_](https://jurix23.maastrichtlawtech.eu/speakers/#monday-18th-december-2023)
+17:15 - 18:15. **First Keynote Speech** by **[Jaap Hage](https://jurix23.maastrichtlawtech.eu/speakers/#monday-18th-december-2023)**, professor in Legal Theory, Maastricht University. Title: [_**Explainable Legal AI**_](https://jurix23.maastrichtlawtech.eu/speakers/#monday-18th-december-2023)
 
 18:15 - 20:30. *Reception*
 
@@ -62,7 +62,7 @@ permalink: /program/
   
 ## Tuesday 19th December, afternoon (plenary)
 
-13:30 - 14:30. **Second Keynote Speech: [Piek Vossen](https://jurix23.maastrichtlawtech.eu/speakers/#tuesday-19th-december-2023)**, professor in Computational Lexicology at the VU University Amsterdam, head of the Computational Linguistics & Text Mining Lab. **_[ChatGPT: what it is, what it can do, cannot do and should not do](https://jurix23.maastrichtlawtech.eu/speakers/#tuesday-19th-december-2023)_**.
+13:30 - 14:30. **Second Keynote Speech** by **[Piek Vossen](https://jurix23.maastrichtlawtech.eu/speakers/#tuesday-19th-december-2023)**, professor in Computational Lexicology at the VU University Amsterdam, head of the Computational Linguistics & Text Mining Lab. Title: **_[ChatGPT: what it is, what it can do, cannot do and should not do](https://jurix23.maastrichtlawtech.eu/speakers/#tuesday-19th-december-2023)_**.
 
 14:30 - 15:45. **session 3: Mixed session**
 		
@@ -131,7 +131,7 @@ permalink: /program/
 
 ## Wednesday 20th December, afternoon (plenary)
 		
-13:30 - 14:30. **Third Keynote Speech: [Iris van Rooij](https://jurix23.maastrichtlawtech.eu/speakers/#wednesday-20th-december-2023)**, professor in Computational Cognitive Science at Radboud University, PI at the Donders Institute for Brain, Cognition and Behaviour. **_[There is no AGI on the horizon, and AI cannot replace people’s (legal) thinking and judging](https://jurix23.maastrichtlawtech.eu/speakers/#wednesday-20th-december-2023)_**.
+13:30 - 14:30. **Third Keynote Speech** by **[Iris van Rooij](https://jurix23.maastrichtlawtech.eu/speakers/#wednesday-20th-december-2023)**, professor in Computational Cognitive Science at Radboud University, PI at the Donders Institute for Brain, Cognition and Behaviour. Title: **_[There is no AGI on the horizon, and AI cannot replace people’s (legal) thinking and judging](https://jurix23.maastrichtlawtech.eu/speakers/#wednesday-20th-december-2023)_**.
 		
 14:30 - 16:00. **session 7: Emerging topics**
 		
