@@ -8,7 +8,7 @@ This page will collect teaser videos prepared by the authors.
 
 # Demos
 
-[![**Answer Set Programming for Legal Decision Support and Explanation**, by Daniele Theseider Dupre](https://img.youtube.com/vi/QI7oD8YdGXU/maxresdefault.jpg)](https://www.youtube.com/watch?v=QI7oD8YdGXU)
+[![**Answer Set Programming for Legal Decision Support and Explanation**, by Daniele Theseider Dupre](https://img.youtube.com/vi/QI7oD8YdGXU/0.jpg)](https://www.youtube.com/watch?v=QI7oD8YdGXU)
 
 - **LeDA: A System for Legal Data Annotation**, by Subinay Adhikary, Dwaipayan Roy, Debasis Ganguly, Shouvik Kumar Guha and Kripabandhu Ghosh. 
 
