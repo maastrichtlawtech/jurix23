@@ -4,6 +4,13 @@ title: Practicalities
 permalink: /practicalities/
 ---
 
+## Venue
+
+Maastricht University
+Faculty of Law
+**Lenculenstraat 26,** (Bouillonstraat 1: will be closed for construction)
+Maastricht
+
 ## Hotels 
 
 We can recommend the following hotels during your stay in Maastricht for JURIX 2023: 
