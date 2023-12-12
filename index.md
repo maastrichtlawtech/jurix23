@@ -34,7 +34,7 @@ The local organizer of JURIX 2023 – [Maastricht Law and Tech Lab ](https://www
 ## Conference venue and contact details
 Conference venue<br>
 Faculty of Law, Maastricht University<br>
-Bouillonstraat 1–3<br>
+**Lenculenstraat 26** (Bouillonstraat 1: will be closed for construction)<br>
 6211 LH Maastricht
 
 **Organisational matters**<br>
