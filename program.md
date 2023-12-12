@@ -28,33 +28,33 @@ permalink: /program/
 
 09:15 - 10:30. **session 1A: Formal approaches (I)**
 		
-- 09:15 - 09:40: Trevor Bench-Capon. A Note on Hierarchical Constraints [long]
-- 09:40 - 10:05: Ilaria Canavotto and John Horty. The importance of intermediate factors [long]	
-- 10:05 - 10:20: Adam Wyner and Tomasz Zurek. On Legal Teleological Reasoning [short]		
-- 10:20 - 10:35: Agata Ciabattoni, Xavier Parent and Giovanni Sartor. Permissions in a Kelsenian perspective [short]
+- 09:15 - 09:40: Trevor Bench-Capon. _A Note on Hierarchical Constraints _
+- 09:40 - 10:05: Ilaria Canavotto and John Horty. _The importance of intermediate factors _
+- 10:05 - 10:20: Adam Wyner and Tomasz Zurek. _On Legal Teleological Reasoning 	_
+- 10:20 - 10:35: Agata Ciabattoni, Xavier Parent and Giovanni Sartor. _Permissions in a Kelsenian perspective _
 		
 09:15 - 10:30. **session 1B: Natural Language Processing (I)**
 		
-- 09:15 - 09:40: Morgan Gray, Jaromir Savelka, Wesley Oliver and Kevin Ashley. Can GPT Alleviate the Burden of Annotation? [long]
-- 09:40 - 10:05: May Myo Zin, Ha Thanh Nguyen, Ken Satoh, Saku Sugawara and Fumihito Nishino. Information Extraction from Lengthy Legal Contracts: Leveraging Query-Based Summarization and GPT-3.5 [long]		
-- 10:05 - 10:20: Youssef Al Mouatamid, Jihad Zahir, Marie Bonnin and Hajar Mousannif. Assessing Ocean's legal protection using AI: A new dataset and a BERT-based classifier [short]		
-- 10:20 - 10:35: Tomer Libal and Aleksander Smywiński-Pohl. Giving Examples Instead of Answering Questions: Introducing Legal Concept-Example Systems [short]
+- 09:15 - 09:40: Morgan Gray, Jaromir Savelka, Wesley Oliver and Kevin Ashley. _Can GPT Alleviate the Burden of Annotation? _
+- 09:40 - 10:05: May Myo Zin, Ha Thanh Nguyen, Ken Satoh, Saku Sugawara and Fumihito Nishino. _Information Extraction from Lengthy Legal Contracts: Leveraging Query-Based Summarization and GPT-3.5 _
+- 10:05 - 10:20: Youssef Al Mouatamid, Jihad Zahir, Marie Bonnin and Hajar Mousannif. _Assessing Ocean's legal protection using AI: A new dataset and a BERT-based classifier 	_
+- 10:20 - 10:35: Tomer Libal and Aleksander Smywiński-Pohl. _Giving Examples Instead of Answering Questions: Introducing Legal Concept-Example Systems _
  
 10:30 - 11:00. *coffee break*	
 		
 11:00 - 12:30. **session 2A: Formal approaches (II)**
 		
-- 11:00 - 11:25: Cecilia Di Florio, Xinghan Liu, Emiliano Lorini, Antonino Rotolo and Giovanni Sartor. Inferring New Classifications in Legal Case-based Reasoning [long]		
-- 11:25 - 11:50: Kees van Berkel, Reka Markovich, Christian Strasser and Leon van der Torre. Arguing About Choosing a Normative System: Conflict of Laws [long]		
-- 11:50 - 12:05: Kathrin Hanauer, Tereza Novotná and Matteo Pascucci. Assisted Normative Reasoning with Aristotelian Diagrams [short]
-- 12:05 - 12:20: Michał Araszkiewicz. Conceptual Structures in Statutory Interpretation [short]		
+- 11:00 - 11:25: Cecilia Di Florio, Xinghan Liu, Emiliano Lorini, Antonino Rotolo and Giovanni Sartor. _Inferring New Classifications in Legal Case-based Reasoning_
+- 11:25 - 11:50: Kees van Berkel, Reka Markovich, Christian Strasser and Leon van der Torre. _ Arguing About Choosing a Normative System: Conflict of Laws_
+- 11:50 - 12:05: Kathrin Hanauer, Tereza Novotná and Matteo Pascucci. _Assisted Normative Reasoning with Aristotelian Diagrams_
+- 12:05 - 12:20: Michał Araszkiewicz._ Conceptual Structures in Statutory Interpretation 	_
 		
 11:00 - 12:30. **session 2B: Natural Language Processing (II)**
 		
-- 11:00 - 11:25: Samyar Janatian, Hannes Westermann, Jinzhe Tan, Jaromir Savelka and Karim Benyekhlef. From Text to Structure: Using Large Language Models to Support the Development of Legal Expert Systems [long]	
-- 11:25 - 11:50: Ren-Der Sun, Chia-Hui Chang and Kuo-Chun Chien. New Horizons of Legal Judgement Predication via Multi-Task Learning and LoRA [long]
-- 11:50 - 12:05: Huihui Xu and Kevin Ashley. A Question-Answering Approach to Evaluate Legal Summaries [short]		
-- 12:05 - 12:20: Marton Ribary, Eugenio Vaccari, Paul Krause, Thomas Wood and Miklos Orban. Prompt engineering and provision of context in domain specific use of GPT [short]		
+- 11:00 - 11:25: Samyar Janatian, Hannes Westermann, Jinzhe Tan, Jaromir Savelka and Karim Benyekhlef. From Text to Structure: _Using Large Language Models to Support the Development of Legal Expert Systems _
+- 11:25 - 11:50: Ren-Der Sun, Chia-Hui Chang and Kuo-Chun Chien. _New Horizons of Legal Judgement Predication via Multi-Task Learning and LoRA _
+- 11:50 - 12:05: Huihui Xu and Kevin Ashley. _A Question-Answering Approach to Evaluate Legal Summaries _
+- 12:05 - 12:20: Marton Ribary, Eugenio Vaccari, Paul Krause, Thomas Wood and Miklos Orban. _Prompt engineering and provision of context in domain specific use of GPT _
 		
 12:30 - 13:30. *lunch break*	
 
@@ -66,24 +66,24 @@ permalink: /program/
 
 14:30 - 15:45. **session 3: Mixed session**
 		
-- 14:30 - 14:55: Daphne Odekerken, Floris Bex and Henry Prakken. Precedent-based reasoning with incomplete cases [long]			
-- 14:55 - 15:20: Ludi van Leeuwen, Bart Verheij, Rineke Verbrugge and Silja Renooij. Evaluating Methods for Setting a Prior Probability of Guilt [long]
-- 15:20 - 15:45: Anas Belfathi, Nicolas Hernandez and Laura Monceaux. Harnessing GPT-3.5-turbo for Rhetorical Role Prediction in Legal Cases [long]  
+- 14:30 - 14:55: Daphne Odekerken, Floris Bex and Henry Prakken. _Precedent-based reasoning with incomplete cases	_	
+- 14:55 - 15:20: Ludi van Leeuwen, Bart Verheij, Rineke Verbrugge and Silja Renooij._ Evaluating Methods for Setting a Prior Probability of Guilt_ 
+- 15:20 - 15:45: Anas Belfathi, Nicolas Hernandez and Laura Monceaux. _Harnessing GPT-3.5-turbo for Rhetorical Role Prediction in Legal Cases_
 			
 15:45 - 16:30. *coffee break* + **demos**
 
-- Ha-Thanh Nguyen, Randy Goebel, Francesca Toni, Kostas Stathis and Ken Satoh. LawGiBa - Combining GPT, Knowledge Bases, and Logic Programming in a Legal Assistance System [demo]
-- Suzan Zuurmond, Annemarie Borg, Matthijs van Kempen and Remi Wieten. Human-centred explanation of rule-based decision-making systems [demo]
-- Daniele Theseider Dupre. Answer Set Programming for Legal Decision Support and Explanation [demo]
-- Samuel Dahan, Rohan Bhambhoria, David Liang and Xiaodan Zhu. OpenJustice.ai: A Global Open-source Legal Language Model [demo]
-- Kevin Bönisch, Giuseppe Abrami, Sabine Wehnert and Alexander Mehler. Bundestags-Mine: Natural Language Processing for Extracting Key Information from Government Documents [demo]
+- Ha-Thanh Nguyen, Randy Goebel, Francesca Toni, Kostas Stathis and Ken Satoh. _LawGiBa - Combining GPT, Knowledge Bases, and Logic Programming in a Legal Assistance Syste_m 
+- Suzan Zuurmond, Annemarie Borg, Matthijs van Kempen and Remi Wieten. _Human-centred explanation of rule-based decision-making systems_
+- Daniele Theseider Dupre. _Answer Set Programming for Legal Decision Support and Explanation_
+- Samuel Dahan, Rohan Bhambhoria, David Liang and Xiaodan Zhu. _OpenJustice.ai: A Global Open-source Legal Language Model_
+- Kevin Bönisch, Giuseppe Abrami, Sabine Wehnert and Alexander Mehler. _Bundestags-Mine: Natural Language Processing for Extracting Key Information from Government Documents_
 
 16:30 - 18:00. **session 4: Mixed session**
 
-- 16:30 - 16:55: Cor Steging, Silja Renooij and Bart Verheij. Improving Rationales with Small, Inconsistent and Incomplete Data [long]
-- 16:55 - 17:20: Jakub Drápal, Hannes Westermann and Jaromir Savelka. Using Large Language Models to Support Thematic Analysis in Empirical Legal Studies [long]
-- 17:20 - 17:35: Jack Mumford, Katie Atkinson and Trevor Bench-Capon. Human Performance on the AI Legal Case Verdict Classification Task [short]
-- 17:35 - 17:50: Guilherme Paulino-Passos and Francesca Toni. Learning Case Relevance in Case-Based Reasoning with Abstract Argumentation [short]
+- 16:30 - 16:55: Cor Steging, Silja Renooij and Bart Verheij. _Improving Rationales with Small, Inconsistent and Incomplete Data_
+- 16:55 - 17:20: Jakub Drápal, Hannes Westermann and Jaromir Savelka. _Using Large Language Models to Support Thematic Analysis in Empirical Legal Studies _
+- 17:20 - 17:35: Jack Mumford, Katie Atkinson and Trevor Bench-Capon. _Human Performance on the AI Legal Case Verdict Classification Task _
+- 17:35 - 17:50: Guilherme Paulino-Passos and Francesca Toni. _Learning Case Relevance in Case-Based Reasoning with Abstract Argumentation _
 
 19:00 - 22:30. **Dinner**
 
@@ -93,35 +93,35 @@ permalink: /program/
 				
 09:00 - 10:30. **session 5A: Formal approaches (III)**
 		
-- 09:00 - 09:25: Wijnand van Woerkom, Davide Grossi, Henry Prakken and Bart Verheij. Hierarchical a Fortiori Reasoning with Dimensions [long]		
-- 09:25 - 09:40: Trevor Bench-Capon and Katie Atkinson. Dimensions and Precedential Constraint: Factors Deriving From Multiple Dimensions [short]		
-- 09:40 - 09:55: Claudio Novelli, Guido Governatori and Antonino Rotolo. Automating Business Process Compliance for the EU AI Act [short]	
-- 09:55 - 10:10: Seng Joe Watt, Oliver Goodenough and Meng Weng Wong. Deontics and time in contracts: An executable semantics for the L4 DSL [short]		
-- 10:10 - 10:25: Milen Girma Kebede, Thomas van Binsbergen, Tom van Engers and Dannis van Vuurden. Towards a Purpose-Based Access Control Model derived from the purpose limitation principle [short]	
+- 09:00 - 09:25: Wijnand van Woerkom, Davide Grossi, Henry Prakken and Bart Verheij. _Hierarchical a Fortiori Reasoning with Dimensions_
+- 09:25 - 09:40: Trevor Bench-Capon and Katie Atkinson. _Dimensions and Precedential Constraint: Factors Deriving From Multiple Dimensions_
+- 09:40 - 09:55: Claudio Novelli, Guido Governatori and Antonino Rotolo. _Automating Business Process Compliance for the EU AI Act _
+- 09:55 - 10:10: Seng Joe Watt, Oliver Goodenough and Meng Weng Wong. _Deontics and time in contracts: An executable semantics for the L4 DSL_ 	
+- 10:10 - 10:25: Milen Girma Kebede, Thomas van Binsbergen, Tom van Engers and Dannis van Vuurden. _Towards a Purpose-Based Access Control Model derived from the purpose limitation principle _
 		
 09:00 - 10:30. **session 5B: Natural Language Processing (III)**
 		
-- 09:00 - 09:25: Ha-Thanh Nguyen, Wachara Fungwacharakorn and Ken Satoh. LogiLaw Dataset towards Reinforcement Learning from Logical Feedback (RLLF) [long]
-- 09:25 - 09:50: Andrea Lombardi, Domenico Alfano and Roberto Abbruzzese. Legal Text Segmentation through Breakpoint Detection [long]		
-- 09:50 - 10:05: Monica Palmirani, Chiara Catizone, Giulia Venditti and Salvatore Sapienza. Multilevel Hate Speech Classification Based on Multilingual Case-Law [short]
-- 10:05 - 10:20: Gabriela Argüelles Terrón, Patricia Martín Chozas and Víctor Rodríguez Doncel. Event Extraction from Spanish Workers' Statute using Large Language Models [short]		
+- 09:00 - 09:25: Ha-Thanh Nguyen, Wachara Fungwacharakorn and Ken Satoh. _LogiLaw Dataset towards Reinforcement Learning from Logical Feedback (RLLF) _
+- 09:25 - 09:50: Andrea Lombardi, Domenico Alfano and Roberto Abbruzzese. _Legal Text Segmentation through Breakpoint Detection _
+- 09:50 - 10:05: Monica Palmirani, Chiara Catizone, Giulia Venditti and Salvatore Sapienza. _Multilevel Hate Speech Classification Based on Multilingual Case-Law _
+- 10:05 - 10:20: Gabriela Argüelles Terrón, Patricia Martín Chozas and Víctor Rodríguez Doncel. _Event Extraction from Spanish Workers' Statute using Large Language Models_ 	
 
 10:30 - 11:00. *coffee break* + **demos**
 	
 11:00 - 12:30. **session 6A: Formal approaches (IV) and hybrid approaches**
 		
-- 11:00 - 11:15: Wachara Fungwacharakorn, Kanae Tsushima, Hiroshi Hosobe, Hideaki Takeda and Ken Satoh. Connecting Rule-Based and Case-Based Representations of Soft-Constraint Norms [short]		
-- 11:15 - 11:30: Preston Carlson and Michael Genesereth. Insurance Portfolio Analysis as Containment Testing [short]		
-- 11:30 - 11:45: Harshvardhan J. Pandit, Paul Ryan, Georg Philip Krog, Martin Crane and Rob Brennan. Towards a Semantic Specification for GDPR Data Breach Reporting [short]		
-- 11:45 - 12:00: Tien-Hsuan Wu, Ben Kao and Michael M.K. Cheung. Judgment Retrieval Made Easier through Query Analysis [short]
+- 11:00 - 11:15: Wachara Fungwacharakorn, Kanae Tsushima, Hiroshi Hosobe, Hideaki Takeda and Ken Satoh. _Connecting Rule-Based and Case-Based Representations of Soft-Constraint Norms	_	
+- 11:15 - 11:30: Preston Carlson and Michael Genesereth. _Insurance Portfolio Analysis as Containment Testing_ 
+- 11:30 - 11:45: Harshvardhan J. Pandit, Paul Ryan, Georg Philip Krog, Martin Crane and Rob Brennan._ Towards a Semantic Specification for GDPR Data Breach Reporting_ 
+- 11:45 - 12:00: Tien-Hsuan Wu, Ben Kao and Michael M.K. Cheung. _Judgment Retrieval Made Easier through Query Analysis _
 
 11:00 - 12:30. **session 6B: Natural Language Processing (IV) and OCR**
 		
-- 11:00 - 11:15: Mads Skipanes, Tollef Emil Jørgensen and Katrin Franke. Advancing Knowledge Discoveries in Criminal Investigations with Semantic Textual Similarity [short]
-- 11:15 - 11:30: Akito Shimbo, Yuta Sugawara, Hiroaki Yamada and Takenobu Tokunaga. Nearest Neighbor Search for Summarization of Japanese Judgment Documents [short]
-- 11:30 - 11:45: Irene Benedetto, Luca Cagliero, Francesco Tarasconi, Giuseppe Giacalone and Claudia Bernini. Benchmarking Abstractive Models for Italian Legal News Summarization [short]
-- 11:45 - 12:00: Henrik Palmer Olsen, Nicolas Garneau, Yannis Panagis, Johan Lindholm and Anders Søgaard. Re-framing Case Law Citation Prediction from a Paragraph Perspective [short]
-- 12:00 - 12:15: Roberto Abbruzzese, Domenico Alfano and Andrea Lombardi. REMOAC: A Retroactive Explainable Method for OCR Anomalies Correction in legal domain [short]		
+- 11:00 - 11:15: Mads Skipanes, Tollef Emil Jørgensen and Katrin Franke. _Advancing Knowledge Discoveries in Criminal Investigations with Semantic Textual Similarity_ 
+- 11:15 - 11:30: Akito Shimbo, Yuta Sugawara, Hiroaki Yamada and Takenobu Tokunaga. _Nearest Neighbor Search for Summarization of Japanese Judgment Documents_ 
+- 11:30 - 11:45: Irene Benedetto, Luca Cagliero, Francesco Tarasconi, Giuseppe Giacalone and Claudia Bernini._ Benchmarking Abstractive Models for Italian Legal News Summarization_
+- 11:45 - 12:00: Henrik Palmer Olsen, Nicolas Garneau, Yannis Panagis, Johan Lindholm and Anders Søgaard. _Re-framing Case Law Citation Prediction from a Paragraph Perspective_
+- 12:00 - 12:15: Roberto Abbruzzese, Domenico Alfano and Andrea Lombardi. _REMOAC: A Retroactive Explainable Method for OCR Anomalies Correction in legal domain_
   
 12:30 - 13:30. lunch break		
 
@@ -133,9 +133,17 @@ permalink: /program/
 		
 14:30 - 16:00. **session 7: Emerging topics**
 		
-- 14:30 - 14:55: Gijs van Dijck, Benjamin Rodrigues de Miranda and Chloé Crombach. Centrality Scores and Precedent Value in Legal Network Analysis [long]		
-- 14:55 - 15:10: Yiwei Lu, Zhe Yu, Yuhui Lin, Burkhard Schafer, Andrew Ireland and Lachlan Urquhart. A Legal System to Modify Autonomous Vehicle Designs in Transnational Contexts [short]		
-- 15:10 - 15:25: Łukasz Górski and Shashishekar Ramakrishna. Challenges in Adapting LLMs for Transparency: Complying with Art. 14 EU AI Act [short]		
-- 15:25 - 15:40: Hilmy Hanif, Jorge Constantino, Marie-Therese Sekwenz, Michel van Eeten, Jolien Ubacht, Ben Wagner and Yury Zhauniarovich. Tough Decisions? Supporting System Classification According to the AI Act [short]
+- 14:30 - 14:55: Gijs van Dijck, Benjamin Rodrigues de Miranda and Chloé Crombach. _Centrality Scores and Precedent Value in Legal Network Analysis_
+- 14:55 - 15:10: Yiwei Lu, Zhe Yu, Yuhui Lin, Burkhard Schafer, Andrew Ireland and Lachlan Urquhart. _A Legal System to Modify Autonomous Vehicle Designs in Transnational Contexts_ 		
+- 15:10 - 15:25: Łukasz Górski and Shashishekar Ramakrishna. _Challenges in Adapting LLMs for Transparency: Complying with Art. 14 EU AI Act_ 	
+- 15:25 - 15:40: Hilmy Hanif, Jorge Constantino, Marie-Therese Sekwenz, Michel van Eeten, Jolien Ubacht, Ben Wagner and Yury Zhauniarovich. _Tough Decisions? Supporting System Classification According to the AI Act_ 
   
 16:00 - 17:00. *Closing remarks* + Open discussion?
+
+## Additional contributions
+
+- Ari Hershowitz and Sela Mador-Haim. _Executing United States Bills into Law: A working application in the United States House_
+- Alexandre Alves, André Nascimento, Rafael Mello and Pericles Miranda. _Automatic simplification of legal texts in Portuguese using machine learning_
+- Mann Khatri, Reshma Sheik, Pritish Wadhwa, Gitansh Satija, Yaman Kumar, Rajiv Shah and Ponnurangam Kumaraguru. _CiteCaseLAW: Citation Worthiness Detection in Caselaw for Legal Assistive Writing_
+- Subinay Adhikary, Dwaipayan Roy, Debasis Ganguly, Shouvik Kumar Guha and Kripabandhu Ghosh._ LeDA: A System for Legal Data Annotation_
+- Ari Hershowitz and Sela Mador-Haim. _“Comparative Prints Suite” of the United States House of Representatives: NLP for tracking changes in bills and laws_
