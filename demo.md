@@ -4,7 +4,9 @@ title: Demos
 permalink: /demos/
 ---
 
-# Demos: teaser videos
+This page collects teaser videos prepared by the authors.
+
+# Demos
 
 - **Answer Set Programming for Legal Decision Support and Explanation**, by Daniele Theseider Dupre. 
 
