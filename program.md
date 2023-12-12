@@ -144,8 +144,8 @@ permalink: /program/
 
 ## Additional contributions
 
-- Ari Hershowitz and Sela Mador-Haim. _Executing United States Bills into Law: A working application in the United States House_
-- Alexandre Alves, André Nascimento, Rafael Mello and Pericles Miranda. _Automatic simplification of legal texts in Portuguese using machine learning_
-- Mann Khatri, Reshma Sheik, Pritish Wadhwa, Gitansh Satija, Yaman Kumar, Rajiv Shah and Ponnurangam Kumaraguru. _CiteCaseLAW: Citation Worthiness Detection in Caselaw for Legal Assistive Writing_
-- Subinay Adhikary, Dwaipayan Roy, Debasis Ganguly, Shouvik Kumar Guha and Kripabandhu Ghosh. _LeDA: A System for Legal Data Annotation_
+- Ari Hershowitz and Sela Mador-Haim. _Executing United States Bills into Law: A working application in the United States House_ 
+- Alexandre Alves, André Nascimento, Rafael Mello and Pericles Miranda. _Automatic simplification of legal texts in Portuguese using machine learning_ (presented at the AI4Legs-2 workshops)
+- Mann Khatri, Reshma Sheik, Pritish Wadhwa, Gitansh Satija, Yaman Kumar, Rajiv Shah and Ponnurangam Kumaraguru. _CiteCaseLAW: Citation Worthiness Detection in Caselaw for Legal Assistive Writing_ (video)
+- Subinay Adhikary, Dwaipayan Roy, Debasis Ganguly, Shouvik Kumar Guha and Kripabandhu Ghosh. _LeDA: A System for Legal Data Annotation_ (presented at the Legal Annotation workshop)
 - Ari Hershowitz and Sela Mador-Haim. _“Comparative Prints Suite” of the United States House of Representatives: NLP for tracking changes in bills and laws_
