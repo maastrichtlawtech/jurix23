@@ -140,6 +140,8 @@ permalink: /program/
   
 16:00 - 17:00. *Closing remarks* + Open discussion?
 
+<br />
+
 ## Additional contributions
 
 - Ari Hershowitz and Sela Mador-Haim. _Executing United States Bills into Law: A working application in the United States House_
