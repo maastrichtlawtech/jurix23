@@ -4,7 +4,7 @@ title: Demos
 permalink: /demos/
 ---
 
-This page collects teaser videos prepared by the authors.
+This page will collect teaser videos prepared by the authors.
 
 # Demos
 
