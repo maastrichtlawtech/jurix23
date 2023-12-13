@@ -4,9 +4,9 @@ title: Demos
 permalink: /demos/
 ---
 
-This page will collect teaser videos prepared by the authors.
+This page will collect teaser videos prepared by the authors for the demos accepted to JURIX, and for contributions that could not participate to the main conference although present in the proceedings. 
 
-# Demos
+## Demos
 
 - **Answer Set Programming for Legal Decision Support and Explanation**, by Daniele Theseider Dupre
 
@@ -20,9 +20,17 @@ This page will collect teaser videos prepared by the authors.
 
 [![OpenJustice.ai: A Global Open-source Legal Language Model](https://img.youtube.com/vi/5is-_9bITbg/0.jpg)](https://www.youtube.com/watch?v=5is-_9bITbg/)
 
-
 - **LawGiBa - Combining GPT, Knowledge Bases, and Logic Programming in a Legal Assistance System**, by Ha-Thanh Nguyen, Randy Goebel, Francesca Toni, Kostas Stathis and Ken Satoh.
 - **Human-centred explanation of rule-based decision-making systems**, by Suzan Zuurmond, Annemarie Borg, Matthijs van Kempen and Remi Wieten. 
 - **“Comparative Prints Suite” of the United States House of Representatives: NLP for tracking changes in bills and laws**, by Ari Hershowitz and Sela Mador-Haim. 
-- **Bundestags-Mine: Natural Language Processing for Extracting Key Information from Government Documents**, by Kevin Bönisch, Giuseppe Abrami, Sabine Wehnert and Alexander Mehler.  
+- **Bundestags-Mine: Natural Language Processing for Extracting Key Information from Government Documents**, by Kevin Bönisch, Giuseppe Abrami, Sabine Wehnert and Alexander Mehler.
+
+## Paper presentations
+
+- **CiteCaseLAW: Citation Worthiness Detection in Caselaw for Legal Assistive Writing**, by Mann Khatri, Reshma Sheik, Pritish Wadhwa, Gitansh Satija, Yaman Kumar, Rajiv Shah and Ponnurangam Kumaraguru. 
+
+[![CiteCaseLAW: Citation Worthiness Detection in Caselaw for Legal Assistive Writing](https://img.youtube.com/vi/voEVXccyIpU/0.jpg)](https://www.youtube.com/watch?v=voEVXccyIpU/)
+
+
+
 
