@@ -18,11 +18,11 @@ permalink: /program/
 - Workshop 4: Legal Annotation workshop (09.00-17.00)
 - Workshop 5: Doctoral Consortium (14.00-17.00)
 
-The program of all workshops can be downloaded <a href="https://jurix23.maastrichtlawtech.eu/assets/JURIX2023-workshops.pdf" target="_blank">here</a>.
+Download the <a href="https://jurix23.maastrichtlawtech.eu/assets/JURIX2023-workshops.pdf" target="_blank">program of all workshops</a>.
 
 17:15 - 18:15. **First Keynote Speech** by **[Jaap Hage](https://jurix23.maastrichtlawtech.eu/speakers/#monday-18th-december-2023)**, professor in Legal Theory (Maastricht University).
 
-<p style='padding-left:10%'>_Explainable Legal AI_</p>
+<p style='padding-left:10%'><strong>Explainable Legal AI</strong></p>
 <p style='padding-left:10%; font-size:90%'>Abstract: With the increasing popularity of AI based on machine learning, the ideal that AI programs can explain their outputs becomes more difficult to realise. There is no reason why this would be different for legal AI. However natural the demand for explicability may seem, it is not at all obvious what precisely is asked for. There seem to be two kinds of explanation, which can ideally be combined but which in practice do not always go together. The one kind describes the process through which the explanandum came about, physically or – in the law – logically. The other kind is a tool to create understanding in the audience. Psychological research has shown that people are often not capable to explain their own behaviour in the first way, and that when they explain it in the second way, the explanation may very well be false. This has also be shown to hold for legal decisions. If naturally intelligent lawyers are not always capable of explaining their own decisions – but may be under the illusion that they are – should we then demand from AI legal decisions makers that they do what human legal decision makers often cannot do? What can we under these circumstances expect from the explanations that AI systems give of their legal decisions? For some, the answer may come as a surprise.</p>
 
 18:15 - 20:30. *Reception*
@@ -80,7 +80,7 @@ The program of all workshops can be downloaded <a href="https://jurix23.maastric
 
 13:30 - 14:30. **Second Keynote Speech** by **[Piek Vossen](https://jurix23.maastrichtlawtech.eu/speakers/#tuesday-19th-december-2023)**, professor in Computational Lexicology (VU University Amsterdam), head of the Computational Linguistics & Text Mining Lab.
 
-<p style='padding-left:10%'>_ChatGPT: what it is, what it can do, cannot do and should not do_</p>
+<p style='padding-left:10%'><strong>ChatGPT: what it is, what it can do, cannot do and should not do</strong></p>
 <p style='padding-left:10%; font-size:90%'>OpenAI has set a new standard by making complex AI tools and systems available to the general public through a natural language interface. No need to program complex systems, just ask your question or send your request to ChatGPT. In this presentation, I dive deeper into the workings of ChatGPT to explain what it can do and what it cannot do. Finally, I discuss its potential future as a technology solution: as Artificial General Intelligence or as natural language interface to technology.</p>
 
 14:30 - 15:45. **session 3: Mixed session**
@@ -91,7 +91,9 @@ The program of all workshops can be downloaded <a href="https://jurix23.maastric
 - 15:20 - 15:45: Anas Belfathi, Nicolas Hernandez and Laura Monceaux. _Harnessing GPT-3.5-turbo for Rhetorical Role Prediction in Legal Cases_
     		
 
-15:45 - 16:30. *coffee break* + **[demos](http://jurix23.maastrichtlawtech.eu/demos)**
+15:45 - 16:30. *coffee break* + **demos**
+
+Teaser videos are available [online](http://jurix23.maastrichtlawtech.eu/demos).
 
 - Ha-Thanh Nguyen, Randy Goebel, Francesca Toni, Kostas Stathis and Ken Satoh. _LawGiBa - Combining GPT, Knowledge Bases, and Logic Programming in a Legal Assistance System_ 
 - Suzan Zuurmond, Annemarie Borg, Matthijs van Kempen and Remi Wieten. _Human-centred explanation of rule-based decision-making systems_
@@ -140,11 +142,8 @@ The program of all workshops can be downloaded <a href="https://jurix23.maastric
 - 11:30 - 11:45: Harshvardhan J. Pandit, Paul Ryan, Georg Philip Krog, Martin Crane and Rob Brennan. _Towards a Semantic Specification for GDPR Data Breach Reporting_ 
 - 11:45 - 12:00: Tien-Hsuan Wu, Ben Kao and Michael M.K. Cheung. _Judgment Retrieval Made Easier through Query Analysis_
 
-12:00 - 12:30. **Q&A**
-
 11:00 - 12:30. **session 6B: Natural Language Processing (IV) and OCR**
 		
-
 - 11:00 - 11:15: Mads Skipanes, Tollef Emil Jørgensen and Katrin Franke. _Advancing Knowledge Discoveries in Criminal Investigations with Semantic Textual Similarity_ 
 - 11:15 - 11:30: Akito Shimbo, Yuta Sugawara, Hiroaki Yamada and Takenobu Tokunaga. _Nearest Neighbor Search for Summarization of Japanese Judgment Documents_ 
 - 11:30 - 11:45: Irene Benedetto, Luca Cagliero, Francesco Tarasconi, Giuseppe Giacalone and Claudia Bernini. _Benchmarking Abstractive Models for Italian Legal News Summarization_
@@ -159,15 +158,12 @@ The program of all workshops can be downloaded <a href="https://jurix23.maastric
 
 13:30 - 14:30. **Third Keynote Speech** by **[Iris van Rooij](https://jurix23.maastrichtlawtech.eu/speakers/#wednesday-20th-december-2023)**, professor in Computational Cognitive Science (Radboud University) and PI at the Donders Institute for Brain, Cognition and Behaviour
 
-<p style='padding-left:10%'>_There is no AGI on the horizon, and AI cannot replace people’s (legal) thinking and judging_</p>
+<p style='padding-left:10%'><strong>There is no AGI on the horizon, and AI cannot replace people’s (legal) thinking and judging</strong></p>
 <p style='padding-left:10%; font-size:90%'>The contemporary field of AI has taken the theoretical possibility of explaining human cognition as a form of computation to imply the practical feasibility of realising human(-like or -level) cognition in factual computational systems. Yet, creating systems with human(-like or -level) cognition is intrinsically computationally intractable. This means that any factual AI systems created in the short-run are at best decoys. When we think these systems capture something deep about ourselves and our thinking, we induce distorted and impoverished images of ourselves and our cognition. This puts us at risk of thinking that our thinking can be replaced by AI and of deskilling our professions. The situation could be remediated by releasing the grip of the currently dominant view on AI and by returning to the idea of AI as a theoretical tool for cognitive science.</p>
 <p style='padding-left:10%; font-size:90%'>(based on recent interdisciplinary work published as <a href="https://osf.io/preprints/psyarxiv/4cbuv/">Reclaiming AI as a theoretical tool for cognitive science</a> together with Olivia Guest, Federico Adolfi, Ronald de Haan, Antonina Kolokolova, & Patricia Rich)</p> 
 
-15:40-16:00: **Q&A**
-
 14:30 - 16:00. **Session 7: Emerging topics**
 		
-
 - 14:30 - 14:55: Gijs van Dijck, Benjamin Rodrigues de Miranda and Chloé Crombach. _Centrality Scores and Precedent Value in Legal Network Analysis_
 - 14:55 - 15:10: Yiwei Lu, Zhe Yu, Yuhui Lin, Burkhard Schafer, Andrew Ireland and Lachlan Urquhart. _A Legal System to Modify Autonomous Vehicle Designs in Transnational Contexts_ 		
 - 15:10 - 15:25: Łukasz Górski and Shashishekar Ramakrishna. _Challenges in Adapting LLMs for Transparency: Complying with Art. 14 EU AI Act_ 	
