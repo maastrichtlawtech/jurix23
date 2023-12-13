@@ -6,9 +6,9 @@ permalink: /practicalities/
 
 ## Venue
 
-Maastricht University
-Faculty of Law
-**Lenculenstraat 26,** (Bouillonstraat 1: will be closed for construction)
+Maastricht University<br>
+Faculty of Law<br>
+**Lenculenstraat 26,** (Bouillonstraat 1: will be closed for construction)<br>
 Maastricht
 
 ## Hotels 
