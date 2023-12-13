@@ -4,7 +4,7 @@ title: Demos
 permalink: /demos/
 ---
 
-This page will collect teaser videos prepared by the authors for the demos accepted to JURIX, and for contributions that could not participate to the main conference although present in the proceedings. 
+This page will collect teaser videos prepared by the authors for demos accepted to JURIX, and for contributions that could not participate to the main conference although present in the proceedings. 
 
 ## Demos
 
