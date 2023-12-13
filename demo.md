@@ -26,7 +26,12 @@ This page will collect teaser videos prepared by the authors for demos accepted 
 
 <br/>
 
-- **LawGiBa - Combining GPT, Knowledge Bases, and Logic Programming in a Legal Assistance System**, by Ha-Thanh Nguyen, Randy Goebel, Francesca Toni, Kostas Stathis and Ken Satoh.
+**LawGiBa - Combining GPT, Knowledge Bases, and Logic Programming in a Legal Assistance System**, by Ha-Thanh Nguyen, Randy Goebel, Francesca Toni, Kostas Stathis and Ken Satoh.
+
+[![LawGiBa - Combining GPT, Knowledge Bases, and Logic Programming in a Legal Assistance System](https://img.youtube.com/vi/MViWtzUNh2c/0.jpg)](https://www.youtube.com/watch?v=MViWtzUNh2c/)
+
+<br/>
+
 - **Human-centred explanation of rule-based decision-making systems**, by Suzan Zuurmond, Annemarie Borg, Matthijs van Kempen and Remi Wieten. 
 - **“Comparative Prints Suite” of the United States House of Representatives: NLP for tracking changes in bills and laws**, by Ari Hershowitz and Sela Mador-Haim. 
 - **Bundestags-Mine: Natural Language Processing for Extracting Key Information from Government Documents**, by Kevin Bönisch, Giuseppe Abrami, Sabine Wehnert and Alexander Mehler.
