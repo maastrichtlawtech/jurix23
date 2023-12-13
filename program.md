@@ -15,8 +15,10 @@ permalink: /program/
 - Workshop 1: ALP 2023: AI, Law, and Philosophy (09.30-17.00)
 - Workshop 2: AI & A2J 2023: AI & Access to Justice workshop (09.00-17.00)
 - Workshop 3: AI4Legs-II workshop (09.00-14.00)
-- Workshop 4: Legal Annotation workshop     (09.00-17.00)
-- Workshop 5: Doctoral Consortium     (14.00-17.00)
+- Workshop 4: Legal Annotation workshop (09.00-17.00)
+- Workshop 5: Doctoral Consortium (14.00-17.00)
+
+The program of all workshops can be downloaded <a href="https://jurix23.maastrichtlawtech.eu/assets/JURIX2023-workshops.pdf" target="_blank">here</a>.
 
 17:15 - 18:15. **First Keynote Speech** by **[Jaap Hage](https://jurix23.maastrichtlawtech.eu/speakers/#monday-18th-december-2023)**, professor in Legal Theory (Maastricht University), on [_Explainable Legal AI_](https://jurix23.maastrichtlawtech.eu/speakers/#monday-18th-december-2023)
 
