@@ -18,7 +18,7 @@ permalink: /program/
 - Workshop 4: Legal Annotation workshop (09.00-17.00)
 - Workshop 5: Doctoral Consortium (14.00-17.00)
 
-Download the <a href="https://jurix23.maastrichtlawtech.eu/assets/JURIX2023-workshops.pdf" target="_blank">program of all workshops</a>.
+For more detail, see the <a href="https://jurix23.maastrichtlawtech.eu/assets/JURIX2023-workshops.pdf" target="_blank">program of all workshops</a>.
 
 17:15 - 18:15. **First Keynote Speech** by **[Jaap Hage](https://jurix23.maastrichtlawtech.eu/speakers/#monday-18th-december-2023)**, professor in Legal Theory (Maastricht University).
 
@@ -93,7 +93,7 @@ Download the <a href="https://jurix23.maastrichtlawtech.eu/assets/JURIX2023-work
 
 15:45 - 16:30. *coffee break* + **demos**
 
-Teaser videos are available [online](http://jurix23.maastrichtlawtech.eu/demos).
+Teaser videos are available [online](http://jurix23.maastrichtlawtech.eu/demos) (including additional demos).
 
 - Ha-Thanh Nguyen, Randy Goebel, Francesca Toni, Kostas Stathis and Ken Satoh. _LawGiBa - Combining GPT, Knowledge Bases, and Logic Programming in a Legal Assistance System_ 
 - Suzan Zuurmond, Annemarie Borg, Matthijs van Kempen and Remi Wieten. _Human-centred explanation of rule-based decision-making systems_
