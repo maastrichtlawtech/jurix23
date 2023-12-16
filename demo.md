@@ -8,6 +8,12 @@ This page will collect teaser videos prepared by the authors for demos accepted 
 
 ## Demos
 
+**Bundestags-Mine: Natural Language Processing for Extracting Key Information from Government Documents**, by Kevin Bönisch, Giuseppe Abrami, Sabine Wehnert and Alexander Mehler.
+
+[![Bundestags-Mine: Natural Language Processing for Extracting Key Information from Government Documents](https://img.youtube.com/vi/c9EVIUCwy84/0.jpg)](https://www.youtube.com/watch?v=c9EVIUCwy84/)
+
+<br/>
+
 **Answer Set Programming for Legal Decision Support and Explanation**, by Daniele Theseider Dupre
 
 [![Answer Set Programming for Legal Decision Support and Explanation](https://img.youtube.com/vi/QI7oD8YdGXU/0.jpg)](https://www.youtube.com/watch?v=QI7oD8YdGXU)
@@ -29,12 +35,6 @@ This page will collect teaser videos prepared by the authors for demos accepted 
 **OpenJustice.ai: A Global Open-source Legal Language Model**, by Samuel Dahan, Rohan Bhambhoria, David Liang and Xiaodan Zhu.  
 
 [![OpenJustice.ai: A Global Open-source Legal Language Model](https://img.youtube.com/vi/5is-_9bITbg/0.jpg)](https://www.youtube.com/watch?v=5is-_9bITbg/)
-
-<br/>
-
-**Bundestags-Mine: Natural Language Processing for Extracting Key Information from Government Documents**, by Kevin Bönisch, Giuseppe Abrami, Sabine Wehnert and Alexander Mehler.
-
-[![Bundestags-Mine: Natural Language Processing for Extracting Key Information from Government Documents](https://img.youtube.com/vi/c9EVIUCwy84/0.jpg)](https://www.youtube.com/watch?v=c9EVIUCwy84/)
 
 <br/>
 
