@@ -32,9 +32,16 @@ This page will collect teaser videos prepared by the authors for demos accepted 
 
 <br/>
 
-- **Human-centred explanation of rule-based decision-making systems**, by Suzan Zuurmond, Annemarie Borg, Matthijs van Kempen and Remi Wieten. 
-- **“Comparative Prints Suite” of the United States House of Representatives: NLP for tracking changes in bills and laws**, by Ari Hershowitz and Sela Mador-Haim. 
 - **Bundestags-Mine: Natural Language Processing for Extracting Key Information from Government Documents**, by Kevin Bönisch, Giuseppe Abrami, Sabine Wehnert and Alexander Mehler.
+
+[![Bundestags-Mine: Natural Language Processing for Extracting Key Information from Government Documents](https://img.youtube.com/vi/c9EVIUCwy84/0.jpg)](https://www.youtube.com/watch?v=c9EVIUCwy84/)
+
+<br/>
+
+- **Human-centred explanation of rule-based decision-making systems**, by Suzan Zuurmond, Annemarie Borg, Matthijs van Kempen and Remi Wieten. 
+- **“Comparative Prints Suite” of the United States House of Representatives: NLP for tracking changes in bills and laws**, by Ari Hershowitz and Sela Mador-Haim.
+
+
 
 ## Paper presentations
 
