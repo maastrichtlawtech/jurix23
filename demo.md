@@ -32,7 +32,7 @@ This page will collect teaser videos prepared by the authors for demos accepted 
 
 <br/>
 
-- **Bundestags-Mine: Natural Language Processing for Extracting Key Information from Government Documents**, by Kevin Bönisch, Giuseppe Abrami, Sabine Wehnert and Alexander Mehler.
+**Bundestags-Mine: Natural Language Processing for Extracting Key Information from Government Documents**, by Kevin Bönisch, Giuseppe Abrami, Sabine Wehnert and Alexander Mehler.
 
 [![Bundestags-Mine: Natural Language Processing for Extracting Key Information from Government Documents](https://img.youtube.com/vi/c9EVIUCwy84/0.jpg)](https://www.youtube.com/watch?v=c9EVIUCwy84/)
 
