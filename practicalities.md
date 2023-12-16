@@ -4,6 +4,8 @@ title: Practicalities
 permalink: /practicalities/
 ---
 
+For registration matters, see the (Registration page)[https://jurix23.maastrichtlawtech.eu/registration/].
+
 ## Venue
 
 Maastricht University<br>
