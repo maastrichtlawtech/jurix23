@@ -8,12 +8,6 @@ This page will collect teaser videos prepared by the authors for demos accepted 
 
 ## Demos
 
-**LawGiBa - Combining GPT, Knowledge Bases, and Logic Programming in a Legal Assistance System**, by Ha-Thanh Nguyen, Randy Goebel, Francesca Toni, Kostas Stathis and Ken Satoh.
-
-[![LawGiBa - Combining GPT, Knowledge Bases, and Logic Programming in a Legal Assistance System](https://img.youtube.com/vi/MViWtzUNh2c/0.jpg)](https://www.youtube.com/watch?v=MViWtzUNh2c/)
-
-<br/>
-
 **Answer Set Programming for Legal Decision Support and Explanation**, by Daniele Theseider Dupre
 
 [![Answer Set Programming for Legal Decision Support and Explanation](https://img.youtube.com/vi/QI7oD8YdGXU/0.jpg)](https://www.youtube.com/watch?v=QI7oD8YdGXU)
@@ -23,6 +17,12 @@ This page will collect teaser videos prepared by the authors for demos accepted 
 **LeDA: A System for Legal Data Annotation**, by Subinay Adhikary, Dwaipayan Roy, Debasis Ganguly, Shouvik Kumar Guha and Kripabandhu Ghosh
 
 [![LeDA: A System for Legal Data Annotation](https://img.youtube.com/vi/HudD_-XWXVw/0.jpg)](https://www.youtube.com/watch?v=HudD_-XWXVw)
+
+<br/>
+
+**LawGiBa - Combining GPT, Knowledge Bases, and Logic Programming in a Legal Assistance System**, by Ha-Thanh Nguyen, Randy Goebel, Francesca Toni, Kostas Stathis and Ken Satoh.
+
+[![LawGiBa - Combining GPT, Knowledge Bases, and Logic Programming in a Legal Assistance System](https://img.youtube.com/vi/MViWtzUNh2c/0.jpg)](https://www.youtube.com/watch?v=MViWtzUNh2c/)
 
 <br/>
 
