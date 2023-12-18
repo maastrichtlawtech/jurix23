@@ -33,6 +33,7 @@ For more detail, see the <a href="https://jurix23.maastrichtlawtech.eu/assets/JU
 09:00 - 09:15. *opening: Welcome from Maastricht University and from the conference organizers*
 
 09:15 - 10:30. **session 1A: Formal approaches (I)**
+
 chair: Antonino Rotolo	
 
 - 09:15 - 09:40: Trevor Bench-Capon. _A Note on Hierarchical Constraints_
@@ -42,6 +43,7 @@ chair: Antonino Rotolo
     	
 
 09:15 - 10:30. **session 1B: Natural Language Processing (I)**
+
 chair: Hannes Westermann
 
 - 09:15 - 09:40: Morgan Gray, Jaromir Savelka, Wesley Oliver and Kevin Ashley. _Can GPT Alleviate the Burden of Annotation?_
@@ -52,6 +54,7 @@ chair: Hannes Westermann
 10:30 - 11:00. *coffee break*	
 		
 11:00 - 12:30. **session 2A: Formal approaches (II)**
+
 chair: Ilaria Canavotto
   
 - 11:00 - 11:25: Cecilia Di Florio, Xinghan Liu, Emiliano Lorini, Antonino Rotolo and Giovanni Sartor. _Inferring New Classifications in Legal Case-based Reasoning_
@@ -61,6 +64,7 @@ chair: Ilaria Canavotto
     	
 
 11:00 - 12:30. **session 2B: Natural Language Processing (II)**
+
 chair: Ha Thanh Nguyen
 		
 - 11:00 - 11:25: Samyar Janatian, Hannes Westermann, Jinzhe Tan, Jaromir Savelka and Karim Benyekhlef. From Text to Structure: _Using Large Language Models to Support the Development of Legal Expert Systems_
@@ -81,6 +85,7 @@ chair: Ha Thanh Nguyen
 <p style='padding-left:10%; font-size:90%'>OpenAI has set a new standard by making complex AI tools and systems available to the general public through a natural language interface. No need to program complex systems, just ask your question or send your request to ChatGPT. In this presentation, I dive deeper into the workings of ChatGPT to explain what it can do and what it cannot do. Finally, I discuss its potential future as a technology solution: as Artificial General Intelligence or as natural language interface to technology.</p>
 
 14:30 - 15:45. **session 3: Mixed session**
+
 chair: Katie Aktinson	
 
 - 14:30 - 14:55: Daphne Odekerken, Floris Bex and Henry Prakken. _Precedent-based reasoning with incomplete cases_	
@@ -99,6 +104,7 @@ Teaser videos are available [online](http://jurix23.maastrichtlawtech.eu/demos) 
 - Kevin Bönisch, Giuseppe Abrami, Sabine Wehnert and Alexander Mehler. _Bundestags-Mine: Natural Language Processing for Extracting Key Information from Government Documents_
 
 16:30 - 18:00. **session 4: Mixed session**
+
 chair: Adam Wyner
 
 - 16:30 - 16:55: Cor Steging, Silja Renooij and Bart Verheij. _Improving Rationales with Small, Inconsistent and Incomplete Data_
@@ -113,6 +119,7 @@ chair: Adam Wyner
 ## Wednesday 20th December, morning (parallel sessions)
 
 09:00 - 10:30. **session 5A: Formal approaches (III)**
+
 chair: Reka Markovich
 	
 - 09:00 - 09:25: Wijnand van Woerkom, Davide Grossi, Henry Prakken and Bart Verheij. _Hierarchical a Fortiori Reasoning with Dimensions_
@@ -123,6 +130,7 @@ chair: Reka Markovich
     	
 
 09:00 - 10:30. **session 5B: Natural Language Processing (III)**
+
 chair: Jaromir Savelka
 	
 - 09:00 - 09:25: Ha-Thanh Nguyen, Wachara Fungwacharakorn and Ken Satoh. _LogiLaw Dataset towards Reinforcement Learning from Logical Feedback (RLLF)_
@@ -133,6 +141,7 @@ chair: Jaromir Savelka
 10:30 - 11:00. *coffee break* + **demos**
 	
 11:00 - 12:30. **session 6A: Formal approaches (IV) and hybrid approaches**
+
 chair: Tomasz Zurek
   
 - 11:00 - 11:15: Wachara Fungwacharakorn, Kanae Tsushima, Hiroshi Hosobe, Hideaki Takeda and Ken Satoh. _Connecting Rule-Based and Case-Based Representations of Soft-Constraint Norms_	
@@ -141,6 +150,7 @@ chair: Tomasz Zurek
 - 11:45 - 12:00: Tien-Hsuan Wu, Ben Kao and Michael M.K. Cheung. _Judgment Retrieval Made Easier through Query Analysis_
 
 11:00 - 12:30. **session 6B: Natural Language Processing (IV) and OCR**
+
 chair: Enrico Francesconi
 		
 - 11:00 - 11:15: Mads Skipanes, Tollef Emil Jørgensen and Katrin Franke. _Advancing Knowledge Discoveries in Criminal Investigations with Semantic Textual Similarity_ 
@@ -163,6 +173,7 @@ chair: Enrico Francesconi
 ~~13:30 - 14:30. **Keynote Speech** by **[Iris van Rooij](https://jurix23.maastrichtlawtech.eu/speakers/#wednesday-20th-december-2023)**, professor in Computational Cognitive Science (Radboud University) and PI at the Donders Institute for Brain, Cognition and Behaviour~~ (canceled) 
 
 14:30 - 16:00. **Session 7: Emerging topics**
+
 chair: Floris Bex
 	
 - 14:30 - 14:55: Gijs van Dijck, Benjamin Rodrigues de Miranda and Chloé Crombach. _Centrality Scores and Precedent Value in Legal Network Analysis_
