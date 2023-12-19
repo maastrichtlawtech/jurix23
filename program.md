@@ -93,7 +93,7 @@ Teaser videos are available [online](http://jurix23.maastrichtlawtech.eu/demos) 
 - Samuel Dahan, Rohan Bhambhoria, David Liang and Xiaodan Zhu. _OpenJustice.ai: A Global Open-source Legal Language Model_
 - Kevin Bönisch, Giuseppe Abrami, Sabine Wehnert and Alexander Mehler. _Bundestags-Mine: Natural Language Processing for Extracting Key Information from Government Documents_
 
-16:30 - 18:00. **session 4: Mixed session** (chair: Adam Wyner)
+16:30 - 18:00. **session 4: Mixed session** (chair: Monica Palmirani)
 
 - 16:30 - 16:55: Cor Steging, Silja Renooij and Bart Verheij. _Improving Rationales with Small, Inconsistent and Incomplete Data_
 - 16:55 - 17:20: Jakub Drápal, Hannes Westermann and Jaromir Savelka. _Using Large Language Models to Support Thematic Analysis in Empirical Legal Studies_
