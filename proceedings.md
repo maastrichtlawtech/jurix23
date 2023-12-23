@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Proceedings and Awards
+title: Proceedings & Awards
 permalink: /proceedings/
 ---
 
