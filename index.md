@@ -44,9 +44,6 @@ Law Events Office<br>
 **Content-related matters**<br>
 [The Maastricht Law and Tech lab](mailto:law-techlab@maastrichtuniversity.nl)
 
-## Registration
-**The [registration](/registration) has now opened. Note that early registration rates apply until 30 November 2023.**
-
-The proceedings will be published after the conference (see ['Proceedings'](/proceedings)). 
+The proceedings have been published in open access, see ['Proceedings'](/proceedings).
 
 ![Banner JURIX](assets/banner.png)
