@@ -4,12 +4,9 @@ title: Proceedings
 permalink: /proceedings/
 ---
 
-## Proceedings
+The proceedings of the conference have been published by [IOS Press](https://www.iospress.com/catalog/book-series/frontiers-in-artificial-intelligence-and-applications) in the Frontiers of Artificial Intelligence and Applications (FAIA) series. 
 
-The proceedings of the conference are published in the Frontiers of Artificial Intelligence and Applications (FAIA) series of [IOS Press](https://www.iospress.com/catalog/book-series/frontiers-in-artificial-intelligence-and-applications). 
-JURIX follows a **gold open-access** publishing policy, providing one of the best available dissemination platforms in AI & Law. 
-
-Contributions accepted to JURIX 2023 are therefore openly available at [https://ebooks.iospress.nl/ISBN/978-1-64368-473-4](https://ebooks.iospress.nl/ISBN/978-1-64368-473-4)
+JURIX follows a **gold open-access** publishing policy, providing one of the best available dissemination platforms in AI & Law. Contributions accepted to JURIX 2023 are therefore openly available at [https://ebooks.iospress.nl/ISBN/978-1-64368-473-4](https://ebooks.iospress.nl/ISBN/978-1-64368-473-4)
 
 ## JURIX 2023 Awards
 
